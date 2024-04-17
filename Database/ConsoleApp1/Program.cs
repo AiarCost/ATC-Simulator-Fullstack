@@ -13,7 +13,8 @@ namespace Selenium_Automation
     {
         static void Main(string[] args)
         {
-            int CheckTimes = 0;
+
+            Console.WriteLine("Version 1.01");
 
             //User Input
             Console.WriteLine("What Year? (1987-2023)");
@@ -35,12 +36,14 @@ namespace Selenium_Automation
 
             string codeBase = Path.GetDirectoryName(fullFilePath);
 
-
-            Console.WriteLine("location of Code base is: " + codeBase);
+            string ParsedCodeBase = codeBase.Split("/");
 
             options.AddUserProfilePreference("download.default_directory", codeBase);
 
-            IWebDriver ArrivalDataDriver = new ChromeDriver(codeBase + "/chromedriver_win64", options);
+            Console.WriteLine(codeBase);
+
+
+            IWebDriver ArrivalDataDriver = new ChromeDriver(codeBase + "\\chromedriver-win64", options);
             ArrivalDataDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             ArrivalDataDriver.Manage().Window.Minimize();
 
@@ -85,7 +88,7 @@ namespace Selenium_Automation
 
 
 
-            IWebDriver DepartureDataDriver = new ChromeDriver("C:/chromedriver-win64", options);
+            IWebDriver DepartureDataDriver = new ChromeDriver(codeBase + "\\chromedriver-win64", options);
             DepartureDataDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             DepartureDataDriver.Manage().Window.Minimize();
 
@@ -120,18 +123,18 @@ namespace Selenium_Automation
             }
             catch
             {
-                Console.WriteLine("Continuing to Departure");
+                Console.WriteLine("Finished, going to close now.");
             }
 
             DepartureDataDriver.Close();
 
 
-            Workbook arrivalBook = new Workbook("Detailed_Statistics_Arrivals.csv");
+            Workbook arrivalBook = new Workbook(codeBase + "\\Detailed_Statistics_Arrivals.csv");
             arrivalBook.Save("ArrivalJSON.json", SaveFormat.Json);
             File.Delete(codeBase + "Detailed_Statistics_Arrivals.csv");
 
 
-            Workbook departureBook = new Workbook("Detailed_Statistics_Departures.csv");
+            Workbook departureBook = new Workbook(codeBase + "\\Detailed_Statistics_Departures.csv");
             departureBook.Save("DepartureJSON.json", SaveFormat.Json);
             File.Delete(codeBase + "Detailed_Statistics_Departures.csv");
 
