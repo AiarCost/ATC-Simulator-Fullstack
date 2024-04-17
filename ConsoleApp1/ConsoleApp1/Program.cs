@@ -40,7 +40,7 @@ namespace Selenium_Automation
 
             options.AddUserProfilePreference("download.default_directory", codeBase);
 
-            IWebDriver ArrivalDataDriver = new ChromeDriver("C:/chromedriver-win64", options);
+            IWebDriver ArrivalDataDriver = new ChromeDriver(codeBase + "/chromedriver_win64", options);
             ArrivalDataDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             ArrivalDataDriver.Manage().Window.Minimize();
 
