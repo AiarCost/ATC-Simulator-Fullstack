@@ -1,0 +1,863 @@
+[
+ {
+  "Detailed Statistics Departures  ": "Origin Airport: Las Vegas",
+  "Column2": " NV: Harry Reid International (LAS)"
+ },
+ {
+  "Detailed Statistics Departures  ": "Airline: Southwest Airlines Co. (WN)"
+ },
+ {
+  "Detailed Statistics Departures  ": "Month(s): May"
+ },
+ {
+  "Detailed Statistics Departures  ": "Day(s): 6"
+ },
+ {
+  "Detailed Statistics Departures  ": "Year(s): 2020"
+ },
+ null,
+ {
+  "Detailed Statistics Departures  ": "Carrier Code",
+  "Column2": "Date (MM\/DD\/YYYY)",
+  "Column3": "Flight Number",
+  "Column4": "Tail Number",
+  "Column5": "Destination Airport",
+  "Column6": "Scheduled departure time",
+  "Column7": "Actual departure time",
+  "Column8": "Departure delay (Minutes)"
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 107,
+  "Column4": "N711HK",
+  "Column5": "BWI",
+  "Column6": "11:10",
+  "Column7": "11:13",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 168,
+  "Column4": "N8655D",
+  "Column5": "MCI",
+  "Column6": "09:05",
+  "Column7": "09:03",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 197,
+  "Column4": "N239WN",
+  "Column5": "MDW",
+  "Column6": "15:15",
+  "Column7": "15:14",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 202,
+  "Column4": "N555LV",
+  "Column5": "SMF",
+  "Column6": "19:30",
+  "Column7": "19:25",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 225,
+  "Column4": "N8669B",
+  "Column5": "HOU",
+  "Column6": "09:15",
+  "Column7": "09:15",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 235,
+  "Column4": "N436WN",
+  "Column5": "RNO",
+  "Column6": "07:10",
+  "Column7": "07:06",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 258,
+  "Column4": "N403WN",
+  "Column5": "OMA",
+  "Column6": "08:50",
+  "Column7": "08:46",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 259,
+  "Column4": "N490WN",
+  "Column5": "ATL",
+  "Column6": "16:00",
+  "Column7": "16:04",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 267,
+  "Column4": "N938WN",
+  "Column5": "PHX",
+  "Column6": "13:55",
+  "Column7": "13:51",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 274,
+  "Column4": "N7715E",
+  "Column5": "GEG",
+  "Column6": "19:50",
+  "Column7": "19:50",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 297,
+  "Column4": "N8692F",
+  "Column5": "FLL",
+  "Column6": "16:10",
+  "Column7": "16:04",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 333,
+  "Column4": "N8503A",
+  "Column5": "DAL",
+  "Column6": "14:00",
+  "Column7": "13:56",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 336,
+  "Column4": "N212WN",
+  "Column5": "TUS",
+  "Column6": "12:25",
+  "Column7": "13:00",
+  "Column8": 35
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 352,
+  "Column4": "N8648A",
+  "Column5": "SJC",
+  "Column6": "19:45",
+  "Column7": "19:45",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 367,
+  "Column4": "N444WN",
+  "Column5": "MDW",
+  "Column6": "17:35",
+  "Column7": "17:32",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 387,
+  "Column4": "N7863A",
+  "Column5": "SNA",
+  "Column6": "16:10",
+  "Column7": "16:04",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 396,
+  "Column4": "N8680C",
+  "Column5": "DEN",
+  "Column6": "16:55",
+  "Column7": "16:53",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 404,
+  "Column4": "N241WN",
+  "Column5": "PIT",
+  "Column6": "15:55",
+  "Column7": "15:57",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 411,
+  "Column4": "N8309C",
+  "Column5": "PHX",
+  "Column6": "15:45",
+  "Column7": "15:43",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 419,
+  "Column4": "N8536Z",
+  "Column5": "SLC",
+  "Column6": "20:05",
+  "Column7": "20:14",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 422,
+  "Column4": "N8524Z",
+  "Column5": "BWI",
+  "Column6": "16:05",
+  "Column7": "16:03",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 424,
+  "Column4": "N8559Q",
+  "Column5": "DAL",
+  "Column6": "17:55",
+  "Column7": "17:54",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 434,
+  "Column4": "N468WN",
+  "Column5": "BWI",
+  "Column6": "07:00",
+  "Column7": "06:54",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 452,
+  "Column4": "N203WN",
+  "Column5": "BUR",
+  "Column6": "08:55",
+  "Column7": "08:48",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 457,
+  "Column4": "N8682B",
+  "Column5": "MCO",
+  "Column6": "12:05",
+  "Column7": "12:02",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 504,
+  "Column4": "N8606C",
+  "Column5": "TPA",
+  "Column6": "10:10",
+  "Column7": "10:04",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 505,
+  "Column4": "N8635F",
+  "Column5": "HOU",
+  "Column6": "14:05",
+  "Column7": "14:01",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 536,
+  "Column4": "N7833A",
+  "Column5": "DEN",
+  "Column6": "09:30",
+  "Column7": "09:27",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 595,
+  "Column4": "N497WN",
+  "Column5": "ABQ",
+  "Column6": "12:20",
+  "Column7": "12:12",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 597,
+  "Column4": "N266WN",
+  "Column5": "SAN",
+  "Column6": "19:50",
+  "Column7": "19:47",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 609,
+  "Column4": "N8625A",
+  "Column5": "AUS",
+  "Column6": "11:15",
+  "Column7": "11:20",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 644,
+  "Column4": "N781WN",
+  "Column5": "BNA",
+  "Column6": "09:05",
+  "Column7": "09:05",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 647,
+  "Column4": "N261WN",
+  "Column5": "MDW",
+  "Column6": "07:05",
+  "Column7": "07:03",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 662,
+  "Column4": "N7744A",
+  "Column5": "MKE",
+  "Column6": "14:00",
+  "Column7": "13:56",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 694,
+  "Column4": "N7749B",
+  "Column5": "PDX",
+  "Column6": "19:35",
+  "Column7": "19:30",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 779,
+  "Column4": "N8664J",
+  "Column5": "IND",
+  "Column6": "15:40",
+  "Column7": "15:40",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 780,
+  "Column4": "N456WN",
+  "Column5": "SAN",
+  "Column6": "14:55",
+  "Column7": "14:51",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 839,
+  "Column4": "N258WN",
+  "Column5": "BUR",
+  "Column6": "13:50",
+  "Column7": "13:46",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 892,
+  "Column4": "N8659D",
+  "Column5": "BOI",
+  "Column6": "19:10",
+  "Column7": "19:05",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 927,
+  "Column4": "N8509U",
+  "Column5": "LAX",
+  "Column6": "13:25",
+  "Column7": "13:22",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 955,
+  "Column4": "N8501V",
+  "Column5": "SEA",
+  "Column6": "15:15",
+  "Column7": "15:12",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 999,
+  "Column4": "N290WN",
+  "Column5": "OAK",
+  "Column6": "17:00",
+  "Column7": "17:05",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1017,
+  "Column4": "N565WN",
+  "Column5": "BUR",
+  "Column6": "18:55",
+  "Column7": "18:46",
+  "Column8": -9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1031,
+  "Column4": "N418WN",
+  "Column5": "GEG",
+  "Column6": "11:00",
+  "Column7": "00:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1040,
+  "Column4": "N7749B",
+  "Column5": "CMH",
+  "Column6": "09:55",
+  "Column7": "09:50",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1045,
+  "Column4": "N457WN",
+  "Column5": "OMA",
+  "Column6": "17:20",
+  "Column7": "17:18",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1076,
+  "Column4": "N8698B",
+  "Column5": "SFO",
+  "Column6": "09:40",
+  "Column7": "09:34",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1100,
+  "Column4": "N436WN",
+  "Column5": "SAN",
+  "Column6": "11:05",
+  "Column7": "11:02",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1152,
+  "Column4": "N7853B",
+  "Column5": "RNO",
+  "Column6": "18:55",
+  "Column7": "18:55",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1153,
+  "Column4": "N7724A",
+  "Column5": "PDX",
+  "Column6": "09:05",
+  "Column7": "09:00",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1156,
+  "Column4": "N750SA",
+  "Column5": "DEN",
+  "Column6": "11:15",
+  "Column7": "11:15",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1159,
+  "Column4": "N929WN",
+  "Column5": "ABQ",
+  "Column6": "19:55",
+  "Column7": "19:50",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1184,
+  "Column4": "N410WN",
+  "Column5": "CMH",
+  "Column6": "15:45",
+  "Column7": "15:39",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1206,
+  "Column4": "N8321D",
+  "Column5": "DEN",
+  "Column6": "20:05",
+  "Column7": "20:00",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1228,
+  "Column4": "N459WN",
+  "Column5": "SNA",
+  "Column6": "09:55",
+  "Column7": "10:12",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1242,
+  "Column4": "N8571Z",
+  "Column5": "DAL",
+  "Column6": "09:25",
+  "Column7": "09:25",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1301,
+  "Column4": "N422WN",
+  "Column5": "DEN",
+  "Column6": "13:05",
+  "Column7": "13:02",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1312,
+  "Column4": "N487WN",
+  "Column5": "BNA",
+  "Column6": "16:40",
+  "Column7": "16:37",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1313,
+  "Column4": "N900WN",
+  "Column5": "ONT",
+  "Column6": "18:50",
+  "Column7": "18:47",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1349,
+  "Column4": "N8643A",
+  "Column5": "HOU",
+  "Column6": "18:45",
+  "Column7": "18:45",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1350,
+  "Column4": "N943WN",
+  "Column5": "ATL",
+  "Column6": "08:25",
+  "Column7": "08:48",
+  "Column8": 23
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1415,
+  "Column4": "N241WN",
+  "Column5": "RNO",
+  "Column6": "11:20",
+  "Column7": "11:19",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1421,
+  "Column4": "N7854B",
+  "Column5": "PDX",
+  "Column6": "13:05",
+  "Column7": "12:58",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1525,
+  "Column4": "N755SA",
+  "Column5": "MCI",
+  "Column6": "18:40",
+  "Column7": "18:34",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1535,
+  "Column4": "N8543Z",
+  "Column5": "MDW",
+  "Column6": "13:15",
+  "Column7": "13:10",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1538,
+  "Column4": "N8512U",
+  "Column5": "SMF",
+  "Column6": "08:25",
+  "Column7": "08:41",
+  "Column8": 16
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1571,
+  "Column4": "N8322X",
+  "Column5": "OAK",
+  "Column6": "13:10",
+  "Column7": "13:26",
+  "Column8": 16
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1596,
+  "Column4": "N926WN",
+  "Column5": "BHM",
+  "Column6": "09:50",
+  "Column7": "09:48",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1705,
+  "Column4": "N7854B",
+  "Column5": "LBB",
+  "Column6": "18:55",
+  "Column7": "18:53",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1740,
+  "Column4": "N959WN",
+  "Column5": "RNO",
+  "Column6": "13:25",
+  "Column7": "13:21",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1744,
+  "Column4": "N7864B",
+  "Column5": "SFO",
+  "Column6": "17:45",
+  "Column7": "17:43",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1745,
+  "Column4": "N8638A",
+  "Column5": "MDW",
+  "Column6": "11:00",
+  "Column7": "11:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1762,
+  "Column4": "N8687A",
+  "Column5": "DEN",
+  "Column6": "07:50",
+  "Column7": "07:43",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1795,
+  "Column4": "N462WN",
+  "Column5": "PHX",
+  "Column6": "10:05",
+  "Column7": "10:01",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 1890,
+  "Column4": "N555LV",
+  "Column5": "LAX",
+  "Column6": "16:00",
+  "Column7": "15:58",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 2004,
+  "Column4": "N718SW",
+  "Column5": "LAX",
+  "Column6": "20:40",
+  "Column7": "20:37",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 2063,
+  "Column4": "N8531Q",
+  "Column5": "SAT",
+  "Column6": "18:55",
+  "Column7": "18:53",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 2093,
+  "Column4": "N238WN",
+  "Column5": "PHX",
+  "Column6": "18:00",
+  "Column7": "18:08",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 2117,
+  "Column4": "N418WN",
+  "Column5": "SMF",
+  "Column6": "15:20",
+  "Column7": "15:23",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 2130,
+  "Column4": "N8628A",
+  "Column5": "RNO",
+  "Column6": "16:00",
+  "Column7": "15:54",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 4523,
+  "Column4": "N718SW",
+  "Column5": "SAT",
+  "Column6": "11:25",
+  "Column7": "11:18",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 4622,
+  "Column4": "N7712G",
+  "Column5": "STL",
+  "Column6": "07:00",
+  "Column7": "06:55",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "05\/06\/2020",
+  "Column3": 6066,
+  "Column4": "N268WN",
+  "Column5": "STL",
+  "Column6": "13:25",
+  "Column7": "13:19",
+  "Column8": -6
+ },
+ null,
+ {
+  "Detailed Statistics Departures  ": " SOURCE: Bureau of Transportation Statistics"
+ }
+]

@@ -1,0 +1,2013 @@
+[
+ {
+  "Detailed Statistics Arrivals  ": "Destination Airport: Las Vegas",
+  "Column2": " NV: Harry Reid International (LAS)"
+ },
+ {
+  "Detailed Statistics Arrivals  ": "Airline: Southwest Airlines Co. (WN)"
+ },
+ {
+  "Detailed Statistics Arrivals  ": "Month(s): April"
+ },
+ {
+  "Detailed Statistics Arrivals  ": "Day(s): 5"
+ },
+ {
+  "Detailed Statistics Arrivals  ": "Year(s): 2022"
+ },
+ null,
+ {
+  "Detailed Statistics Arrivals  ": "Carrier Code",
+  "Column2": "Date (MM\/DD\/YYYY)",
+  "Column3": "Flight Number",
+  "Column4": "Tail Number",
+  "Column5": "Origin Airport",
+  "Column6": "Scheduled Arrival Time",
+  "Column7": "Actual Arrival Time",
+  "Column8": "Arrival Delay (Minutes)"
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 8,
+  "Column4": "N7830A",
+  "Column5": "DAL",
+  "Column6": "10:45",
+  "Column7": "10:40",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 29,
+  "Column4": "N8818Q",
+  "Column5": "HOU",
+  "Column6": "16:40",
+  "Column7": "18:02",
+  "Column8": 82
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 113,
+  "Column4": "N909WN",
+  "Column5": "SNA",
+  "Column6": "13:05",
+  "Column7": "13:09",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 124,
+  "Column4": "N8531Q",
+  "Column5": "DEN",
+  "Column6": "10:30",
+  "Column7": "11:06",
+  "Column8": 36
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 148,
+  "Column4": "N7856A",
+  "Column5": "BUR",
+  "Column6": "17:30",
+  "Column7": "18:08",
+  "Column8": 38
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 169,
+  "Column4": "N477WN",
+  "Column5": "COS",
+  "Column6": "06:45",
+  "Column7": "06:43",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 171,
+  "Column4": "N8640D",
+  "Column5": "ATL",
+  "Column6": "08:20",
+  "Column7": "08:21",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 187,
+  "Column4": "N8660A",
+  "Column5": "SMF",
+  "Column6": "17:35",
+  "Column7": "17:47",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 198,
+  "Column4": "N7835A",
+  "Column5": "SEA",
+  "Column6": "07:25",
+  "Column7": "07:09",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 220,
+  "Column4": "N564WN",
+  "Column5": "LAX",
+  "Column6": "08:55",
+  "Column7": "08:36",
+  "Column8": -19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 221,
+  "Column4": "N203WN",
+  "Column5": "MDW",
+  "Column6": "16:30",
+  "Column7": "16:40",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 227,
+  "Column4": "N900WN",
+  "Column5": "IAH",
+  "Column6": "12:00",
+  "Column7": "12:07",
+  "Column8": 7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 237,
+  "Column4": "N7857B",
+  "Column5": "DEN",
+  "Column6": "07:40",
+  "Column7": "07:40",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 239,
+  "Column4": "N7835A",
+  "Column5": "OMA",
+  "Column6": "14:15",
+  "Column7": "14:26",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 247,
+  "Column4": "N8724J",
+  "Column5": "SAN",
+  "Column6": "13:00",
+  "Column7": "12:54",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 254,
+  "Column4": "N7742B",
+  "Column5": "SAN",
+  "Column6": "23:05",
+  "Column7": "23:00",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 296,
+  "Column4": "N955WN",
+  "Column5": "SJC",
+  "Column6": "19:05",
+  "Column7": "19:13",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 310,
+  "Column4": "N8643A",
+  "Column5": "BNA",
+  "Column6": "08:25",
+  "Column7": "08:14",
+  "Column8": -11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 313,
+  "Column4": "N8643A",
+  "Column5": "LAX",
+  "Column6": "14:50",
+  "Column7": "14:52",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 329,
+  "Column4": "N8801Q",
+  "Column5": "MDW",
+  "Column6": "07:15",
+  "Column7": "07:16",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 354,
+  "Column4": "N8570W",
+  "Column5": "SMF",
+  "Column6": "12:30",
+  "Column7": "12:39",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 361,
+  "Column4": "N8695D",
+  "Column5": "STL",
+  "Column6": "23:10",
+  "Column7": "00:11",
+  "Column8": 61
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 364,
+  "Column4": "N7822A",
+  "Column5": "DEN",
+  "Column6": "19:55",
+  "Column7": "20:17",
+  "Column8": 22
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 382,
+  "Column4": "N910WN",
+  "Column5": "PDX",
+  "Column6": "20:15",
+  "Column7": "20:07",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 398,
+  "Column4": "N237WN",
+  "Column5": "BUR",
+  "Column6": "08:30",
+  "Column7": "08:17",
+  "Column8": -13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 399,
+  "Column4": "N7883A",
+  "Column5": "SNA",
+  "Column6": "21:50",
+  "Column7": "21:34",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 404,
+  "Column4": "N403WN",
+  "Column5": "AUS",
+  "Column6": "22:45",
+  "Column7": "23:11",
+  "Column8": 26
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 416,
+  "Column4": "N7878A",
+  "Column5": "RNO",
+  "Column6": "23:25",
+  "Column7": "23:06",
+  "Column8": -19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 431,
+  "Column4": "N7886A",
+  "Column5": "SNA",
+  "Column6": "18:45",
+  "Column7": "18:45",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 485,
+  "Column4": "N745SW",
+  "Column5": "EUG",
+  "Column6": "14:05",
+  "Column7": "13:57",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 493,
+  "Column4": "N7828A",
+  "Column5": "DAL",
+  "Column6": "20:15",
+  "Column7": "20:20",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 516,
+  "Column4": "N453WN",
+  "Column5": "BUR",
+  "Column6": "21:20",
+  "Column7": "21:11",
+  "Column8": -9
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 553,
+  "Column4": "N7868K",
+  "Column5": "BOI",
+  "Column6": "20:00",
+  "Column7": "19:48",
+  "Column8": -12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 559,
+  "Column4": "N8513F",
+  "Column5": "OAK",
+  "Column6": "14:45",
+  "Column7": "14:45",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 561,
+  "Column4": "N8542Z",
+  "Column5": "CMH",
+  "Column6": "06:50",
+  "Column7": "07:03",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 581,
+  "Column4": "N925WN",
+  "Column5": "AUS",
+  "Column6": "14:55",
+  "Column7": "14:55",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 605,
+  "Column4": "N7868K",
+  "Column5": "TUL",
+  "Column6": "15:20",
+  "Column7": "15:20",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 608,
+  "Column4": "N452WN",
+  "Column5": "MAF",
+  "Column6": "13:30",
+  "Column7": "13:33",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 614,
+  "Column4": "N7733B",
+  "Column5": "SNA",
+  "Column6": "15:40",
+  "Column7": "16:08",
+  "Column8": 28
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 620,
+  "Column4": "N7865A",
+  "Column5": "SLC",
+  "Column6": "09:55",
+  "Column7": "10:18",
+  "Column8": 23
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 621,
+  "Column4": "N8645A",
+  "Column5": "MCI",
+  "Column6": "11:50",
+  "Column7": "11:58",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 640,
+  "Column4": "N438WN",
+  "Column5": "MDW",
+  "Column6": "21:10",
+  "Column7": "22:50",
+  "Column8": 100
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 651,
+  "Column4": "N220WN",
+  "Column5": "SFO",
+  "Column6": "21:20",
+  "Column7": "00:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 660,
+  "Column4": "N8600F",
+  "Column5": "ONT",
+  "Column6": "14:05",
+  "Column7": "13:51",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 678,
+  "Column4": "N452WN",
+  "Column5": "SBA",
+  "Column6": "17:20",
+  "Column7": "17:42",
+  "Column8": 22
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 679,
+  "Column4": "N8652B",
+  "Column5": "SJC",
+  "Column6": "21:05",
+  "Column7": "21:54",
+  "Column8": 49
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 686,
+  "Column4": "N247WN",
+  "Column5": "LGB",
+  "Column6": "16:50",
+  "Column7": "16:35",
+  "Column8": -15
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 690,
+  "Column4": "N218WN",
+  "Column5": "MCI",
+  "Column6": "16:50",
+  "Column7": "17:17",
+  "Column8": 27
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 693,
+  "Column4": "N8607M",
+  "Column5": "ABQ",
+  "Column6": "14:45",
+  "Column7": "14:56",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 696,
+  "Column4": "N8579Z",
+  "Column5": "ELP",
+  "Column6": "06:45",
+  "Column7": "06:48",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 705,
+  "Column4": "N235WN",
+  "Column5": "PHX",
+  "Column6": "23:20",
+  "Column7": "00:55",
+  "Column8": 95
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 748,
+  "Column4": "N737JW",
+  "Column5": "BUR",
+  "Column6": "22:15",
+  "Column7": "21:58",
+  "Column8": -17
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 756,
+  "Column4": "N7723E",
+  "Column5": "AMA",
+  "Column6": "11:00",
+  "Column7": "10:41",
+  "Column8": -19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 758,
+  "Column4": "N7830A",
+  "Column5": "LBB",
+  "Column6": "16:15",
+  "Column7": "16:17",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 762,
+  "Column4": "N8536Z",
+  "Column5": "MDW",
+  "Column6": "23:45",
+  "Column7": "00:37",
+  "Column8": 52
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 772,
+  "Column4": "N7815L",
+  "Column5": "ABQ",
+  "Column6": "06:05",
+  "Column7": "05:50",
+  "Column8": -15
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 773,
+  "Column4": "N8690A",
+  "Column5": "MSY",
+  "Column6": "15:30",
+  "Column7": "15:51",
+  "Column8": 21
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 790,
+  "Column4": "N927WN",
+  "Column5": "SMF",
+  "Column6": "14:45",
+  "Column7": "15:06",
+  "Column8": 21
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 804,
+  "Column4": "N442WN",
+  "Column5": "PHX",
+  "Column6": "08:05",
+  "Column7": "07:55",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 820,
+  "Column4": "N235WN",
+  "Column5": "BZN",
+  "Column6": "12:30",
+  "Column7": "12:44",
+  "Column8": 14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 836,
+  "Column4": "N725SW",
+  "Column5": "PHX",
+  "Column6": "08:50",
+  "Column7": "08:42",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 850,
+  "Column4": "N8535S",
+  "Column5": "DEN",
+  "Column6": "06:40",
+  "Column7": "06:37",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 863,
+  "Column4": "N8748Q",
+  "Column5": "SJC",
+  "Column6": "11:30",
+  "Column7": "11:16",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 879,
+  "Column4": "N252WN",
+  "Column5": "PSP",
+  "Column6": "13:30",
+  "Column7": "13:29",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 899,
+  "Column4": "N477WN",
+  "Column5": "ABQ",
+  "Column6": "20:55",
+  "Column7": "20:56",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 909,
+  "Column4": "N8729H",
+  "Column5": "SJC",
+  "Column6": "08:40",
+  "Column7": "08:25",
+  "Column8": -15
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 923,
+  "Column4": "N8520Q",
+  "Column5": "PHX",
+  "Column6": "18:35",
+  "Column7": "19:09",
+  "Column8": 34
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 931,
+  "Column4": "N279WN",
+  "Column5": "PIT",
+  "Column6": "13:25",
+  "Column7": "14:51",
+  "Column8": 86
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 954,
+  "Column4": "N8804L",
+  "Column5": "HOU",
+  "Column6": "10:35",
+  "Column7": "10:44",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 957,
+  "Column4": "N773SA",
+  "Column5": "BUR",
+  "Column6": "15:05",
+  "Column7": "15:02",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 974,
+  "Column4": "N8570W",
+  "Column5": "DEN",
+  "Column6": "18:10",
+  "Column7": "19:08",
+  "Column8": 58
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 978,
+  "Column4": "N8565Z",
+  "Column5": "ELP",
+  "Column6": "16:15",
+  "Column7": "16:02",
+  "Column8": -13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 979,
+  "Column4": "N935WN",
+  "Column5": "AUS",
+  "Column6": "09:45",
+  "Column7": "09:37",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 982,
+  "Column4": "N935WN",
+  "Column5": "ONT",
+  "Column6": "19:20",
+  "Column7": "19:20",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 988,
+  "Column4": "N946WN",
+  "Column5": "ONT",
+  "Column6": "11:15",
+  "Column7": "11:07",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1003,
+  "Column4": "N7884G",
+  "Column5": "SBA",
+  "Column6": "11:25",
+  "Column7": "11:06",
+  "Column8": -19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1017,
+  "Column4": "N431WN",
+  "Column5": "SJC",
+  "Column6": "14:15",
+  "Column7": "14:27",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1024,
+  "Column4": "N483WN",
+  "Column5": "DEN",
+  "Column6": "22:15",
+  "Column7": "22:19",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1033,
+  "Column4": "N281WN",
+  "Column5": "SAT",
+  "Column6": "11:35",
+  "Column7": "11:53",
+  "Column8": 18
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1051,
+  "Column4": "N7862A",
+  "Column5": "SNA",
+  "Column6": "17:20",
+  "Column7": "17:25",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1071,
+  "Column4": "N8329B",
+  "Column5": "HNL",
+  "Column6": "16:00",
+  "Column7": "15:50",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1083,
+  "Column4": "N8721J",
+  "Column5": "SAN",
+  "Column6": "18:25",
+  "Column7": "18:13",
+  "Column8": -12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1103,
+  "Column4": "N8675A",
+  "Column5": "PHX",
+  "Column6": "21:00",
+  "Column7": "21:35",
+  "Column8": 35
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1108,
+  "Column4": "N8313F",
+  "Column5": "HOU",
+  "Column6": "06:45",
+  "Column7": "06:42",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1111,
+  "Column4": "N8800L",
+  "Column5": "SJC",
+  "Column6": "16:40",
+  "Column7": "16:31",
+  "Column8": -9
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1114,
+  "Column4": "N8747Q",
+  "Column5": "LAX",
+  "Column6": "07:20",
+  "Column7": "07:07",
+  "Column8": -13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1217,
+  "Column4": "N8553W",
+  "Column5": "OAK",
+  "Column6": "18:05",
+  "Column7": "17:59",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1249,
+  "Column4": "N927WN",
+  "Column5": "BUR",
+  "Column6": "18:20",
+  "Column7": "18:22",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1277,
+  "Column4": "N7833A",
+  "Column5": "LGB",
+  "Column6": "13:40",
+  "Column7": "13:23",
+  "Column8": -17
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1284,
+  "Column4": "N8308K",
+  "Column5": "BNA",
+  "Column6": "23:20",
+  "Column7": "00:02",
+  "Column8": 42
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1289,
+  "Column4": "N247WN",
+  "Column5": "TUS",
+  "Column6": "20:35",
+  "Column7": "20:28",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1313,
+  "Column4": "N8571Z",
+  "Column5": "SAN",
+  "Column6": "17:35",
+  "Column7": "17:21",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1315,
+  "Column4": "N234WN",
+  "Column5": "SNA",
+  "Column6": "20:05",
+  "Column7": "20:22",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1350,
+  "Column4": "N8561Z",
+  "Column5": "PDX",
+  "Column6": "12:15",
+  "Column7": "11:59",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1362,
+  "Column4": "N8668A",
+  "Column5": "DEN",
+  "Column6": "11:15",
+  "Column7": "11:17",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1364,
+  "Column4": "N8668A",
+  "Column5": "ONT",
+  "Column6": "21:55",
+  "Column7": "21:45",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1371,
+  "Column4": "N230WN",
+  "Column5": "DEN",
+  "Column6": "23:15",
+  "Column7": "00:47",
+  "Column8": 92
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1402,
+  "Column4": "N457WN",
+  "Column5": "SAN",
+  "Column6": "22:10",
+  "Column7": "23:00",
+  "Column8": 50
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1404,
+  "Column4": "N453WN",
+  "Column5": "SMF",
+  "Column6": "09:30",
+  "Column7": "09:17",
+  "Column8": -13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1410,
+  "Column4": "N7713A",
+  "Column5": "SJC",
+  "Column6": "21:55",
+  "Column7": "21:57",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1507,
+  "Column4": "N274WN",
+  "Column5": "ORD",
+  "Column6": "16:45",
+  "Column7": "17:11",
+  "Column8": 26
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1508,
+  "Column4": "N203WN",
+  "Column5": "SMF",
+  "Column6": "22:40",
+  "Column7": "22:38",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1520,
+  "Column4": "N569WN",
+  "Column5": "SLC",
+  "Column6": "17:40",
+  "Column7": "18:39",
+  "Column8": 59
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1622,
+  "Column4": "N265WN",
+  "Column5": "BUR",
+  "Column6": "20:10",
+  "Column7": "20:16",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1656,
+  "Column4": "N966WN",
+  "Column5": "RNO",
+  "Column6": "21:00",
+  "Column7": "21:29",
+  "Column8": 29
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1659,
+  "Column4": "N8664J",
+  "Column5": "COS",
+  "Column6": "19:15",
+  "Column7": "19:59",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1661,
+  "Column4": "N8573Z",
+  "Column5": "MDW",
+  "Column6": "09:45",
+  "Column7": "09:47",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1662,
+  "Column4": "N8573Z",
+  "Column5": "PHX",
+  "Column6": "17:05",
+  "Column7": "17:09",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1663,
+  "Column4": "N230WN",
+  "Column5": "SFO",
+  "Column6": "06:55",
+  "Column7": "06:44",
+  "Column8": -11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1665,
+  "Column4": "N8699A",
+  "Column5": "RNO",
+  "Column6": "12:25",
+  "Column7": "12:19",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1670,
+  "Column4": "N8699A",
+  "Column5": "SEA",
+  "Column6": "23:35",
+  "Column7": "23:38",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1687,
+  "Column4": "N8558Z",
+  "Column5": "DAL",
+  "Column6": "07:05",
+  "Column7": "06:55",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1698,
+  "Column4": "N7857B",
+  "Column5": "FAT",
+  "Column6": "17:25",
+  "Column7": "19:07",
+  "Column8": 102
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1713,
+  "Column4": "N8514F",
+  "Column5": "STL",
+  "Column6": "16:15",
+  "Column7": "17:43",
+  "Column8": 88
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1726,
+  "Column4": "N250WN",
+  "Column5": "BWI",
+  "Column6": "15:40",
+  "Column7": "16:24",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1809,
+  "Column4": "N459WN",
+  "Column5": "BNA",
+  "Column6": "16:00",
+  "Column7": "16:19",
+  "Column8": 19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1812,
+  "Column4": "N755SA",
+  "Column5": "IND",
+  "Column6": "09:55",
+  "Column7": "09:50",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1827,
+  "Column4": "N7860A",
+  "Column5": "RNO",
+  "Column6": "16:35",
+  "Column7": "16:30",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1838,
+  "Column4": "N8526W",
+  "Column5": "SAN",
+  "Column6": "14:00",
+  "Column7": "13:52",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1840,
+  "Column4": "N8526W",
+  "Column5": "LAX",
+  "Column6": "20:00",
+  "Column7": "19:46",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1854,
+  "Column4": "N8327A",
+  "Column5": "OAK",
+  "Column6": "13:50",
+  "Column7": "13:43",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1909,
+  "Column4": "N957WN",
+  "Column5": "SJC",
+  "Column6": "22:40",
+  "Column7": "00:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1927,
+  "Column4": "N451WN",
+  "Column5": "SNA",
+  "Column6": "10:35",
+  "Column7": "10:30",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1947,
+  "Column4": "N8555Z",
+  "Column5": "ONT",
+  "Column6": "07:35",
+  "Column7": "07:26",
+  "Column8": -9
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1970,
+  "Column4": "N962WN",
+  "Column5": "DEN",
+  "Column6": "09:25",
+  "Column7": "09:15",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1993,
+  "Column4": "N946WN",
+  "Column5": "SEA",
+  "Column6": "17:55",
+  "Column7": "17:33",
+  "Column8": -22
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1998,
+  "Column4": "N485WN",
+  "Column5": "RNO",
+  "Column6": "10:50",
+  "Column7": "10:36",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2025,
+  "Column4": "N8575Z",
+  "Column5": "BUR",
+  "Column6": "11:05",
+  "Column7": "10:57",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2041,
+  "Column4": "N8710M",
+  "Column5": "PHX",
+  "Column6": "06:35",
+  "Column7": "06:32",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2044,
+  "Column4": "N8710M",
+  "Column5": "SJC",
+  "Column6": "17:40",
+  "Column7": "17:41",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2048,
+  "Column4": "N8661A",
+  "Column5": "SMF",
+  "Column6": "20:45",
+  "Column7": "20:42",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2066,
+  "Column4": "N8673F",
+  "Column5": "OMA",
+  "Column6": "19:00",
+  "Column7": "19:10",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2076,
+  "Column4": "N785SW",
+  "Column5": "OAK",
+  "Column6": "15:45",
+  "Column7": "15:42",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2117,
+  "Column4": "N8631A",
+  "Column5": "HOU",
+  "Column6": "23:40",
+  "Column7": "01:14",
+  "Column8": 94
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2150,
+  "Column4": "N405WN",
+  "Column5": "DAL",
+  "Column6": "18:10",
+  "Column7": "18:24",
+  "Column8": 14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2166,
+  "Column4": "N8537Z",
+  "Column5": "SLC",
+  "Column6": "20:55",
+  "Column7": "22:01",
+  "Column8": 66
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2167,
+  "Column4": "N213WN",
+  "Column5": "RNO",
+  "Column6": "07:00",
+  "Column7": "06:53",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2196,
+  "Column4": "N7876A",
+  "Column5": "SAN",
+  "Column6": "07:55",
+  "Column7": "07:39",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2200,
+  "Column4": "N8724J",
+  "Column5": "SAN",
+  "Column6": "08:40",
+  "Column7": "08:38",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2211,
+  "Column4": "N8736J",
+  "Column5": "LGB",
+  "Column6": "21:50",
+  "Column7": "21:51",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2256,
+  "Column4": "N7857B",
+  "Column5": "SFO",
+  "Column6": "13:40",
+  "Column7": "14:50",
+  "Column8": 70
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2303,
+  "Column4": "N8712L",
+  "Column5": "LAX",
+  "Column6": "17:30",
+  "Column7": "17:53",
+  "Column8": 23
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2305,
+  "Column4": "N8660A",
+  "Column5": "OAK",
+  "Column6": "22:15",
+  "Column7": "22:04",
+  "Column8": -11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2356,
+  "Column4": "N437WN",
+  "Column5": "BUR",
+  "Column6": "09:15",
+  "Column7": "09:16",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2358,
+  "Column4": "N437WN",
+  "Column5": "FAT",
+  "Column6": "12:55",
+  "Column7": "12:39",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2359,
+  "Column4": "N446WN",
+  "Column5": "MCI",
+  "Column6": "21:35",
+  "Column7": "21:45",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2368,
+  "Column4": "N8584Z",
+  "Column5": "SMF",
+  "Column6": "07:35",
+  "Column7": "07:57",
+  "Column8": 22
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2375,
+  "Column4": "N444WN",
+  "Column5": "SFO",
+  "Column6": "19:00",
+  "Column7": "19:43",
+  "Column8": 43
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2389,
+  "Column4": "N8577Z",
+  "Column5": "PHX",
+  "Column6": "15:05",
+  "Column7": "14:58",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2394,
+  "Column4": "N216WR",
+  "Column5": "BLI",
+  "Column6": "15:55",
+  "Column7": "15:44",
+  "Column8": -11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2401,
+  "Column4": "N757LV",
+  "Column5": "SAN",
+  "Column6": "19:40",
+  "Column7": "20:10",
+  "Column8": 30
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2455,
+  "Column4": "N8629A",
+  "Column5": "PHX",
+  "Column6": "10:40",
+  "Column7": "10:43",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2486,
+  "Column4": "N8661A",
+  "Column5": "RNO",
+  "Column6": "14:30",
+  "Column7": "14:19",
+  "Column8": -11
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2502,
+  "Column4": "N8812Q",
+  "Column5": "OKC",
+  "Column6": "13:25",
+  "Column7": "13:32",
+  "Column8": 7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2507,
+  "Column4": "N202WN",
+  "Column5": "SMF",
+  "Column6": "23:50",
+  "Column7": "00:19",
+  "Column8": 29
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2511,
+  "Column4": "N730SW",
+  "Column5": "OAK",
+  "Column6": "00:05",
+  "Column7": "23:35",
+  "Column8": -30
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2523,
+  "Column4": "N446WN",
+  "Column5": "TUS",
+  "Column6": "06:40",
+  "Column7": "06:28",
+  "Column8": -12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2524,
+  "Column4": "N446WN",
+  "Column5": "OAK",
+  "Column6": "12:20",
+  "Column7": "12:21",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2533,
+  "Column4": "N490WN",
+  "Column5": "BUR",
+  "Column6": "12:30",
+  "Column7": "12:29",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2559,
+  "Column4": "N953WN",
+  "Column5": "OAK",
+  "Column6": "06:55",
+  "Column7": "00:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2566,
+  "Column4": "N8749Q",
+  "Column5": "SJC",
+  "Column6": "10:00",
+  "Column7": "09:44",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2571,
+  "Column4": "N968WN",
+  "Column5": "LAX",
+  "Column6": "21:20",
+  "Column7": "21:04",
+  "Column8": -16
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2572,
+  "Column4": "N461WN",
+  "Column5": "MDW",
+  "Column6": "08:55",
+  "Column7": "08:56",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2582,
+  "Column4": "N496WN",
+  "Column5": "SBA",
+  "Column6": "06:40",
+  "Column7": "06:32",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2597,
+  "Column4": "N8614M",
+  "Column5": "DEN",
+  "Column6": "14:15",
+  "Column7": "14:27",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2602,
+  "Column4": "N752SW",
+  "Column5": "BUR",
+  "Column6": "10:10",
+  "Column7": "09:55",
+  "Column8": -15
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2618,
+  "Column4": "N8750Q",
+  "Column5": "BWI",
+  "Column6": "23:20",
+  "Column7": "00:50",
+  "Column8": 90
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2622,
+  "Column4": "N7822A",
+  "Column5": "BOI",
+  "Column6": "06:40",
+  "Column7": "06:34",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2633,
+  "Column4": "N7888A",
+  "Column5": "SLC",
+  "Column6": "06:00",
+  "Column7": "05:59",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2635,
+  "Column4": "N8559Q",
+  "Column5": "STL",
+  "Column6": "07:10",
+  "Column7": "07:11",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2642,
+  "Column4": "N8726H",
+  "Column5": "LAX",
+  "Column6": "22:35",
+  "Column7": "22:25",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2651,
+  "Column4": "N451WN",
+  "Column5": "GEG",
+  "Column6": "18:10",
+  "Column7": "18:33",
+  "Column8": 23
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2659,
+  "Column4": "N7813P",
+  "Column5": "DAL",
+  "Column6": "13:10",
+  "Column7": "13:09",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2667,
+  "Column4": "N7848A",
+  "Column5": "SAN",
+  "Column6": "10:05",
+  "Column7": "10:25",
+  "Column8": 20
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2675,
+  "Column4": "N8718Q",
+  "Column5": "OGG",
+  "Column6": "15:50",
+  "Column7": "16:53",
+  "Column8": 63
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2683,
+  "Column4": "N8316H",
+  "Column5": "BWI",
+  "Column6": "08:50",
+  "Column7": "08:54",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2687,
+  "Column4": "N221WN",
+  "Column5": "MDW",
+  "Column6": "13:35",
+  "Column7": "14:02",
+  "Column8": 27
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2689,
+  "Column4": "N566WN",
+  "Column5": "AUS",
+  "Column6": "19:20",
+  "Column7": "19:59",
+  "Column8": 39
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2694,
+  "Column4": "N8326F",
+  "Column5": "LAX",
+  "Column6": "13:35",
+  "Column7": "13:32",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2711,
+  "Column4": "N731SA",
+  "Column5": "LGB",
+  "Column6": "11:25",
+  "Column7": "11:10",
+  "Column8": -15
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2721,
+  "Column4": "N717SA",
+  "Column5": "LGB",
+  "Column6": "19:15",
+  "Column7": "18:57",
+  "Column8": -18
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2728,
+  "Column4": "N570WN",
+  "Column5": "DAL",
+  "Column6": "08:40",
+  "Column7": "08:33",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2729,
+  "Column4": "N945WN",
+  "Column5": "MKE",
+  "Column6": "11:00",
+  "Column7": "10:59",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2745,
+  "Column4": "N287WN",
+  "Column5": "IND",
+  "Column6": "18:20",
+  "Column7": "18:34",
+  "Column8": 14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2768,
+  "Column4": "N7737E",
+  "Column5": "SAT",
+  "Column6": "06:15",
+  "Column7": "06:08",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2802,
+  "Column4": "N7884G",
+  "Column5": "AUS",
+  "Column6": "07:40",
+  "Column7": "07:30",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 3325,
+  "Column4": "N8751R",
+  "Column5": "KOA",
+  "Column6": "16:10",
+  "Column7": "15:56",
+  "Column8": -14
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 3562,
+  "Column4": "N8327A",
+  "Column5": "OAK",
+  "Column6": "09:10",
+  "Column7": "09:02",
+  "Column8": -8
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 3686,
+  "Column4": "N7845A",
+  "Column5": "BZN",
+  "Column6": "18:45",
+  "Column7": "18:51",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4026,
+  "Column4": "N967WN",
+  "Column5": "SNA",
+  "Column6": "09:15",
+  "Column7": "09:58",
+  "Column8": 43
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4049,
+  "Column4": "N925WN",
+  "Column5": "SMF",
+  "Column6": "19:55",
+  "Column7": "20:20",
+  "Column8": 25
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4125,
+  "Column4": "N8302F",
+  "Column5": "SJC",
+  "Column6": "20:20",
+  "Column7": "22:33",
+  "Column8": 133
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4358,
+  "Column4": "N8718Q",
+  "Column5": "OAK",
+  "Column6": "21:10",
+  "Column7": "21:29",
+  "Column8": 19
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4557,
+  "Column4": "N445WN",
+  "Column5": "GEG",
+  "Column6": "08:15",
+  "Column7": "08:08",
+  "Column8": -7
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4572,
+  "Column4": "N8748Q",
+  "Column5": "SAN",
+  "Column6": "15:25",
+  "Column7": "15:15",
+  "Column8": -10
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4783,
+  "Column4": "N7816B",
+  "Column5": "FAT",
+  "Column6": "07:40",
+  "Column7": "07:27",
+  "Column8": -13
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 6517,
+  "Column4": "N7851A",
+  "Column5": "PIT",
+  "Column6": "15:35",
+  "Column7": "16:11",
+  "Column8": 36
+ },
+ {
+  "Detailed Statistics Arrivals  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 6615,
+  "Column4": "N8608N",
+  "Column5": "MKE",
+  "Column6": "22:40",
+  "Column7": "22:44",
+  "Column8": 4
+ },
+ null,
+ {
+  "Detailed Statistics Arrivals  ": " SOURCE: Bureau of Transportation Statistics"
+ }
+]

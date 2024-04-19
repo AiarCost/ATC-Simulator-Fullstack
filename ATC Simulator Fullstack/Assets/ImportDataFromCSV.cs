@@ -53,13 +53,16 @@ public class ImportDataFromCSV : MonoBehaviour
 
         UnityEngine.Debug.Log(NewPath + DatabaseCollector);
 
-        string DataFolderForFiles = "\\Database\\ConsoleApp1\\bin\\Debug\\net6.0\\";
+        string DataFolderForFiles = Application.dataPath;
+        UnityEngine.Debug.Log(DataFolderForFiles);
 
-        File.Delete(NewPath + DataFolderForFiles + "Detailed_Statistics_Arrivals.csv");
-        File.Delete(NewPath + DataFolderForFiles + "Detailed_Statistics_Departures.csv");
+        File.Delete(DataFolderForFiles + "Detailed_Statistics_Arrivals.csv");
+        File.Delete(DataFolderForFiles + "Detailed_Statistics_Departures.csv");
 
         Process process = Process.Start(NewPath + DatabaseCollector);
-       process.WaitForExit();
+        process.WaitForExit();
+        process.Dispose();
     }
+
 
 }

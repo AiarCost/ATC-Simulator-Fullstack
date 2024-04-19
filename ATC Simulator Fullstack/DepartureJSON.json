@@ -1,0 +1,2013 @@
+[
+ {
+  "Detailed Statistics Departures  ": "Origin Airport: Las Vegas",
+  "Column2": " NV: Harry Reid International (LAS)"
+ },
+ {
+  "Detailed Statistics Departures  ": "Airline: Southwest Airlines Co. (WN)"
+ },
+ {
+  "Detailed Statistics Departures  ": "Month(s): April"
+ },
+ {
+  "Detailed Statistics Departures  ": "Day(s): 5"
+ },
+ {
+  "Detailed Statistics Departures  ": "Year(s): 2022"
+ },
+ null,
+ {
+  "Detailed Statistics Departures  ": "Carrier Code",
+  "Column2": "Date (MM\/DD\/YYYY)",
+  "Column3": "Flight Number",
+  "Column4": "Tail Number",
+  "Column5": "Destination Airport",
+  "Column6": "Scheduled departure time",
+  "Column7": "Actual departure time",
+  "Column8": "Departure delay (Minutes)"
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 106,
+  "Column4": "N265WN",
+  "Column5": "BUR",
+  "Column6": "20:55",
+  "Column7": "21:06",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 113,
+  "Column4": "N909WN",
+  "Column5": "AMA",
+  "Column6": "13:45",
+  "Column7": "14:02",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 126,
+  "Column4": "N8558Z",
+  "Column5": "ONT",
+  "Column6": "07:50",
+  "Column7": "07:52",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 130,
+  "Column4": "N8718Q",
+  "Column5": "OAK",
+  "Column6": "17:25",
+  "Column7": "17:53",
+  "Column8": 28
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 156,
+  "Column4": "N8818Q",
+  "Column5": "ATL",
+  "Column6": "17:25",
+  "Column7": "19:36",
+  "Column8": 131
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 169,
+  "Column4": "N477WN",
+  "Column5": "BUR",
+  "Column6": "07:35",
+  "Column7": "07:32",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 172,
+  "Column4": "N8640D",
+  "Column5": "DEN",
+  "Column6": "09:10",
+  "Column7": "09:20",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 187,
+  "Column4": "N8712L",
+  "Column5": "DAL",
+  "Column6": "18:20",
+  "Column7": "19:21",
+  "Column8": 61
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 197,
+  "Column4": "N7857B",
+  "Column5": "FAT",
+  "Column6": "14:20",
+  "Column7": "16:12",
+  "Column8": 112
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 198,
+  "Column4": "N7835A",
+  "Column5": "OMA",
+  "Column6": "08:05",
+  "Column7": "08:05",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 221,
+  "Column4": "N203WN",
+  "Column5": "BUR",
+  "Column6": "17:10",
+  "Column7": "17:26",
+  "Column8": 16
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 227,
+  "Column4": "N900WN",
+  "Column5": "LGB",
+  "Column6": "12:45",
+  "Column7": "12:54",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 237,
+  "Column4": "N7857B",
+  "Column5": "BUR",
+  "Column6": "08:40",
+  "Column7": "08:36",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 239,
+  "Column4": "N7835A",
+  "Column5": "SNA",
+  "Column6": "15:00",
+  "Column7": "15:07",
+  "Column8": 7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 244,
+  "Column4": "N564WN",
+  "Column5": "BUR",
+  "Column6": "09:45",
+  "Column7": "10:02",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 296,
+  "Column4": "N955WN",
+  "Column5": "TUL",
+  "Column6": "19:40",
+  "Column7": "19:57",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 302,
+  "Column4": "N7833A",
+  "Column5": "MCI",
+  "Column6": "14:10",
+  "Column7": "14:17",
+  "Column8": 7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 310,
+  "Column4": "N8643A",
+  "Column5": "SJC",
+  "Column6": "09:20",
+  "Column7": "09:25",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 314,
+  "Column4": "N8643A",
+  "Column5": "SJC",
+  "Column6": "15:40",
+  "Column7": "15:49",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 329,
+  "Column4": "N8801Q",
+  "Column5": "OAK",
+  "Column6": "08:10",
+  "Column7": "08:09",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 356,
+  "Column4": "N8570W",
+  "Column5": "DEN",
+  "Column6": "13:35",
+  "Column7": "13:37",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 365,
+  "Column4": "N7822A",
+  "Column5": "SAT",
+  "Column6": "20:35",
+  "Column7": "21:25",
+  "Column8": 50
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 382,
+  "Column4": "N910WN",
+  "Column5": "OMA",
+  "Column6": "21:00",
+  "Column7": "20:54",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 398,
+  "Column4": "N237WN",
+  "Column5": "BZN",
+  "Column6": "09:05",
+  "Column7": "09:00",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 399,
+  "Column4": "N7883A",
+  "Column5": "SFO",
+  "Column6": "22:30",
+  "Column7": "22:27",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 431,
+  "Column4": "N7886A",
+  "Column5": "SFO",
+  "Column6": "19:20",
+  "Column7": "19:30",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 460,
+  "Column4": "N8316H",
+  "Column5": "MDW",
+  "Column6": "09:40",
+  "Column7": "09:42",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 471,
+  "Column4": "N725SW",
+  "Column5": "IAH",
+  "Column6": "09:15",
+  "Column7": "09:38",
+  "Column8": 23
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 473,
+  "Column4": "N453WN",
+  "Column5": "PDX",
+  "Column6": "10:10",
+  "Column7": "10:10",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 485,
+  "Column4": "N745SW",
+  "Column5": "ABQ",
+  "Column6": "14:45",
+  "Column7": "14:44",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 488,
+  "Column4": "N459WN",
+  "Column5": "ONT",
+  "Column6": "18:25",
+  "Column7": "18:34",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 491,
+  "Column4": "N8308K",
+  "Column5": "BNA",
+  "Column6": "05:10",
+  "Column7": "05:18",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 513,
+  "Column4": "N296WN",
+  "Column5": "LGB",
+  "Column6": "08:30",
+  "Column7": "08:43",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 518,
+  "Column4": "N966WN",
+  "Column5": "PHX",
+  "Column6": "22:25",
+  "Column7": "22:21",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 553,
+  "Column4": "N7868K",
+  "Column5": "LAX",
+  "Column6": "20:35",
+  "Column7": "20:33",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 559,
+  "Column4": "N8513F",
+  "Column5": "AUS",
+  "Column6": "15:40",
+  "Column7": "15:44",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 562,
+  "Column4": "N8542Z",
+  "Column5": "HOU",
+  "Column6": "07:45",
+  "Column7": "08:09",
+  "Column8": 24
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 579,
+  "Column4": "N7857B",
+  "Column5": "SMF",
+  "Column6": "18:10",
+  "Column7": "19:50",
+  "Column8": 100
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 581,
+  "Column4": "N431WN",
+  "Column5": "SMF",
+  "Column6": "15:35",
+  "Column7": "15:44",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 597,
+  "Column4": "N7723E",
+  "Column5": "PIT",
+  "Column6": "11:50",
+  "Column7": "12:03",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 605,
+  "Column4": "N7868K",
+  "Column5": "BOI",
+  "Column6": "16:00",
+  "Column7": "16:09",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 609,
+  "Column4": "N8302F",
+  "Column5": "OAK",
+  "Column6": "21:05",
+  "Column7": "23:17",
+  "Column8": 132
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 620,
+  "Column4": "N967WN",
+  "Column5": "BUR",
+  "Column6": "10:40",
+  "Column7": "11:02",
+  "Column8": 22
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 640,
+  "Column4": "N438WN",
+  "Column5": "PDX",
+  "Column6": "22:00",
+  "Column7": "00:06",
+  "Column8": 126
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 660,
+  "Column4": "N8614M",
+  "Column5": "DEN",
+  "Column6": "14:55",
+  "Column7": "15:41",
+  "Column8": 46
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 678,
+  "Column4": "N452WN",
+  "Column5": "IND",
+  "Column6": "18:10",
+  "Column7": "18:45",
+  "Column8": 35
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 679,
+  "Column4": "N8652B",
+  "Column5": "ABQ",
+  "Column6": "21:55",
+  "Column7": "22:41",
+  "Column8": 46
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 686,
+  "Column4": "N247WN",
+  "Column5": "TUS",
+  "Column6": "17:30",
+  "Column7": "17:33",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 690,
+  "Column4": "N218WN",
+  "Column5": "PHX",
+  "Column6": "17:35",
+  "Column7": "18:06",
+  "Column8": 31
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 696,
+  "Column4": "N8579Z",
+  "Column5": "SAN",
+  "Column6": "07:40",
+  "Column7": "07:52",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 757,
+  "Column4": "N7830A",
+  "Column5": "LBB",
+  "Column6": "11:25",
+  "Column7": "11:39",
+  "Column8": 14
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 758,
+  "Column4": "N7830A",
+  "Column5": "SJC",
+  "Column6": "17:05",
+  "Column7": "17:06",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 772,
+  "Column4": "N7815L",
+  "Column5": "BUR",
+  "Column6": "06:45",
+  "Column7": "06:42",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 773,
+  "Column4": "N8748Q",
+  "Column5": "SLC",
+  "Column6": "16:25",
+  "Column7": "16:49",
+  "Column8": 24
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 804,
+  "Column4": "N442WN",
+  "Column5": "SMF",
+  "Column6": "08:40",
+  "Column7": "08:41",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 820,
+  "Column4": "N490WN",
+  "Column5": "AUS",
+  "Column6": "13:10",
+  "Column7": "13:42",
+  "Column8": 32
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 836,
+  "Column4": "N570WN",
+  "Column5": "ORD",
+  "Column6": "09:30",
+  "Column7": "09:40",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 847,
+  "Column4": "N8617E",
+  "Column5": "SLC",
+  "Column6": "05:35",
+  "Column7": "05:36",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 851,
+  "Column4": "N447WN",
+  "Column5": "PHX",
+  "Column6": "06:20",
+  "Column7": "06:17",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 854,
+  "Column4": "N7828A",
+  "Column5": "MCI",
+  "Column6": "20:55",
+  "Column7": "21:15",
+  "Column8": 20
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 856,
+  "Column4": "N7884G",
+  "Column5": "BUR",
+  "Column6": "12:15",
+  "Column7": "12:14",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 858,
+  "Column4": "N925WN",
+  "Column5": "LGB",
+  "Column6": "14:55",
+  "Column7": "15:42",
+  "Column8": 47
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 864,
+  "Column4": "N8748Q",
+  "Column5": "SAN",
+  "Column6": "12:15",
+  "Column7": "12:12",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 866,
+  "Column4": "N8690A",
+  "Column5": "SAN",
+  "Column6": "16:10",
+  "Column7": "16:54",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 879,
+  "Column4": "N252WN",
+  "Column5": "BNA",
+  "Column6": "14:10",
+  "Column7": "14:47",
+  "Column8": 37
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 885,
+  "Column4": "N8751R",
+  "Column5": "OGG",
+  "Column6": "17:40",
+  "Column7": "18:24",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 899,
+  "Column4": "N477WN",
+  "Column5": "GEG",
+  "Column6": "21:30",
+  "Column7": "21:51",
+  "Column8": 21
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 923,
+  "Column4": "N8520Q",
+  "Column5": "OKC",
+  "Column6": "19:25",
+  "Column7": "21:28",
+  "Column8": 123
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 931,
+  "Column4": "N279WN",
+  "Column5": "BUR",
+  "Column6": "14:05",
+  "Column7": "15:44",
+  "Column8": 99
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 934,
+  "Column4": "N274WN",
+  "Column5": "MAF",
+  "Column6": "17:25",
+  "Column7": "18:29",
+  "Column8": 64
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 936,
+  "Column4": "N8575Z",
+  "Column5": "BOI",
+  "Column6": "11:30",
+  "Column7": "12:00",
+  "Column8": 30
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 954,
+  "Column4": "N8804L",
+  "Column5": "LAX",
+  "Column6": "11:25",
+  "Column7": "11:40",
+  "Column8": 15
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 957,
+  "Column4": "N773SA",
+  "Column5": "COS",
+  "Column6": "15:45",
+  "Column7": "15:50",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 974,
+  "Column4": "N8570W",
+  "Column5": "PHX",
+  "Column6": "18:55",
+  "Column7": "20:09",
+  "Column8": 74
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 979,
+  "Column4": "N935WN",
+  "Column5": "GEG",
+  "Column6": "10:25",
+  "Column7": "10:22",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 983,
+  "Column4": "N403WN",
+  "Column5": "RNO",
+  "Column6": "22:20",
+  "Column7": "00:03",
+  "Column8": 103
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 988,
+  "Column4": "N946WN",
+  "Column5": "SEA",
+  "Column6": "12:00",
+  "Column7": "12:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 989,
+  "Column4": "N8535S",
+  "Column5": "AUS",
+  "Column6": "07:30",
+  "Column7": "07:29",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1024,
+  "Column4": "N483WN",
+  "Column5": "SMF",
+  "Column6": "22:55",
+  "Column7": "23:03",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1033,
+  "Column4": "N281WN",
+  "Column5": "SFO",
+  "Column6": "12:15",
+  "Column7": "12:43",
+  "Column8": 28
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1051,
+  "Column4": "N7862A",
+  "Column5": "CMH",
+  "Column6": "18:00",
+  "Column7": "18:33",
+  "Column8": 33
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1054,
+  "Column4": "N8696E",
+  "Column5": "BWI",
+  "Column6": "05:05",
+  "Column7": "05:05",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1085,
+  "Column4": "N8721J",
+  "Column5": "SAN",
+  "Column6": "19:15",
+  "Column7": "20:01",
+  "Column8": 46
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1105,
+  "Column4": "N8675A",
+  "Column5": "SAN",
+  "Column6": "21:45",
+  "Column7": "22:23",
+  "Column8": 38
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1108,
+  "Column4": "N8313F",
+  "Column5": "SMF",
+  "Column6": "07:30",
+  "Column7": "07:49",
+  "Column8": 19
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1134,
+  "Column4": "N778SW",
+  "Column5": "OAK",
+  "Column6": "05:20",
+  "Column7": "05:20",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1150,
+  "Column4": "N8800L",
+  "Column5": "MDW",
+  "Column6": "16:10",
+  "Column7": "17:45",
+  "Column8": 95
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1197,
+  "Column4": "N8565Z",
+  "Column5": "STL",
+  "Column6": "17:00",
+  "Column7": "17:38",
+  "Column8": 38
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1217,
+  "Column4": "N8553W",
+  "Column5": "MDW",
+  "Column6": "19:00",
+  "Column7": "19:12",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1247,
+  "Column4": "N927WN",
+  "Column5": "BUR",
+  "Column6": "15:30",
+  "Column7": "15:52",
+  "Column8": 22
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1249,
+  "Column4": "N927WN",
+  "Column5": "RNO",
+  "Column6": "19:00",
+  "Column7": "19:05",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1276,
+  "Column4": "N7833A",
+  "Column5": "AUS",
+  "Column6": "05:00",
+  "Column7": "04:57",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1277,
+  "Column4": "N221WN",
+  "Column5": "SMF",
+  "Column6": "14:25",
+  "Column7": "14:52",
+  "Column8": 27
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1287,
+  "Column4": "N247WN",
+  "Column5": "DAL",
+  "Column6": "05:30",
+  "Column7": "05:35",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1289,
+  "Column4": "N247WN",
+  "Column5": "DEN",
+  "Column6": "21:20",
+  "Column7": "21:17",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1293,
+  "Column4": "N8717M",
+  "Column5": "HNL",
+  "Column6": "09:35",
+  "Column7": "09:35",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1297,
+  "Column4": "N8740A",
+  "Column5": "LGB",
+  "Column6": "07:10",
+  "Column7": "07:15",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1302,
+  "Column4": "N7733B",
+  "Column5": "SNA",
+  "Column6": "16:20",
+  "Column7": "16:53",
+  "Column8": 33
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1305,
+  "Column4": "N8512U",
+  "Column5": "MDW",
+  "Column6": "06:20",
+  "Column7": "06:53",
+  "Column8": 33
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1309,
+  "Column4": "N280WN",
+  "Column5": "ONT",
+  "Column6": "05:30",
+  "Column7": "05:28",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1313,
+  "Column4": "N8571Z",
+  "Column5": "ELP",
+  "Column6": "18:25",
+  "Column7": "18:19",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1316,
+  "Column4": "N234WN",
+  "Column5": "SNA",
+  "Column6": "20:40",
+  "Column7": "21:24",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1320,
+  "Column4": "N464WN",
+  "Column5": "RNO",
+  "Column6": "05:40",
+  "Column7": "05:40",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1335,
+  "Column4": "N8508W",
+  "Column5": "SJC",
+  "Column6": "05:45",
+  "Column7": "05:43",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1341,
+  "Column4": "N8328A",
+  "Column5": "SJC",
+  "Column6": "08:25",
+  "Column7": "08:21",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1349,
+  "Column4": "N8561Z",
+  "Column5": "SMF",
+  "Column6": "05:15",
+  "Column7": "05:10",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1351,
+  "Column4": "N8561Z",
+  "Column5": "RNO",
+  "Column6": "13:05",
+  "Column7": "13:04",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1352,
+  "Column4": "N8635F",
+  "Column5": "STL",
+  "Column6": "05:25",
+  "Column7": "05:38",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1362,
+  "Column4": "N8668A",
+  "Column5": "TUS",
+  "Column6": "12:10",
+  "Column7": "12:11",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1365,
+  "Column4": "N8668A",
+  "Column5": "OAK",
+  "Column6": "22:45",
+  "Column7": "22:50",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1402,
+  "Column4": "N457WN",
+  "Column5": "SLC",
+  "Column6": "22:55",
+  "Column7": "23:36",
+  "Column8": 41
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1405,
+  "Column4": "N7865A",
+  "Column5": "SJC",
+  "Column6": "10:10",
+  "Column7": "10:57",
+  "Column8": 47
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1410,
+  "Column4": "N7713A",
+  "Column5": "SEA",
+  "Column6": "22:35",
+  "Column7": "22:34",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1416,
+  "Column4": "N8629A",
+  "Column5": "SAN",
+  "Column6": "11:25",
+  "Column7": "11:34",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1520,
+  "Column4": "N569WN",
+  "Column5": "SAN",
+  "Column6": "18:20",
+  "Column7": "19:22",
+  "Column8": 62
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1657,
+  "Column4": "N453WN",
+  "Column5": "SMF",
+  "Column6": "21:40",
+  "Column7": "22:09",
+  "Column8": 29
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1660,
+  "Column4": "N8664J",
+  "Column5": "HOU",
+  "Column6": "20:00",
+  "Column7": "20:44",
+  "Column8": 44
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1661,
+  "Column4": "N8573Z",
+  "Column5": "RNO",
+  "Column6": "10:45",
+  "Column7": "10:53",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1662,
+  "Column4": "N8573Z",
+  "Column5": "BWI",
+  "Column6": "18:00",
+  "Column7": "18:10",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1667,
+  "Column4": "N8699A",
+  "Column5": "EUG",
+  "Column6": "13:15",
+  "Column7": "13:12",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1714,
+  "Column4": "N8514F",
+  "Column5": "DAL",
+  "Column6": "17:05",
+  "Column7": "18:43",
+  "Column8": 98
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1726,
+  "Column4": "N7851A",
+  "Column5": "PHX",
+  "Column6": "16:20",
+  "Column7": "17:12",
+  "Column8": 52
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1809,
+  "Column4": "N7816B",
+  "Column5": "RNO",
+  "Column6": "16:40",
+  "Column7": "17:04",
+  "Column8": 24
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1827,
+  "Column4": "N7860A",
+  "Column5": "SAN",
+  "Column6": "17:15",
+  "Column7": "17:20",
+  "Column8": 5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1843,
+  "Column4": "N8526W",
+  "Column5": "SJC",
+  "Column6": "20:45",
+  "Column7": "20:55",
+  "Column8": 10
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1853,
+  "Column4": "N8327A",
+  "Column5": "OAK",
+  "Column6": "09:55",
+  "Column7": "10:01",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1855,
+  "Column4": "N8327A",
+  "Column5": "OAK",
+  "Column6": "14:50",
+  "Column7": "14:49",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1928,
+  "Column4": "N8531Q",
+  "Column5": "SNA",
+  "Column6": "11:15",
+  "Column7": "12:04",
+  "Column8": 49
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 1947,
+  "Column4": "N8555Z",
+  "Column5": "SAT",
+  "Column6": "08:20",
+  "Column7": "08:52",
+  "Column8": 32
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2001,
+  "Column4": "N485WN",
+  "Column5": "SMF",
+  "Column6": "11:30",
+  "Column7": "11:54",
+  "Column8": 24
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2026,
+  "Column4": "N451WN",
+  "Column5": "SJC",
+  "Column6": "11:50",
+  "Column7": "11:53",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2041,
+  "Column4": "N8710M",
+  "Column5": "OAK",
+  "Column6": "07:20",
+  "Column7": "07:20",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2044,
+  "Column4": "N8710M",
+  "Column5": "BNA",
+  "Column6": "18:30",
+  "Column7": "19:01",
+  "Column8": 31
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2067,
+  "Column4": "N8673F",
+  "Column5": "MDW",
+  "Column6": "20:00",
+  "Column7": "20:17",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2076,
+  "Column4": "N8600F",
+  "Column5": "DEN",
+  "Column6": "16:30",
+  "Column7": "16:50",
+  "Column8": 20
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2083,
+  "Column4": "N935WN",
+  "Column5": "LGB",
+  "Column6": "19:55",
+  "Column7": "19:57",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2150,
+  "Column4": "N405WN",
+  "Column5": "SJC",
+  "Column6": "18:50",
+  "Column7": "19:01",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2166,
+  "Column4": "N8537Z",
+  "Column5": "ONT",
+  "Column6": "21:45",
+  "Column7": "22:58",
+  "Column8": 73
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2167,
+  "Column4": "N213WN",
+  "Column5": "SNA",
+  "Column6": "07:35",
+  "Column7": "07:34",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2197,
+  "Column4": "N7876A",
+  "Column5": "SNA",
+  "Column6": "08:45",
+  "Column7": "08:39",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2201,
+  "Column4": "N8724J",
+  "Column5": "SAN",
+  "Column6": "09:40",
+  "Column7": "09:43",
+  "Column8": 3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2203,
+  "Column4": "N8724J",
+  "Column5": "SAN",
+  "Column6": "14:00",
+  "Column7": "14:00",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2232,
+  "Column4": "N7737E",
+  "Column5": "DEN",
+  "Column6": "06:55",
+  "Column7": "06:49",
+  "Column8": -6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2248,
+  "Column4": "N461WN",
+  "Column5": "COS",
+  "Column6": "09:35",
+  "Column7": "09:48",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2274,
+  "Column4": "N968WN",
+  "Column5": "LAX",
+  "Column6": "21:55",
+  "Column7": "22:31",
+  "Column8": 36
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2304,
+  "Column4": "N8660A",
+  "Column5": "OAK",
+  "Column6": "18:30",
+  "Column7": "18:47",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2357,
+  "Column4": "N437WN",
+  "Column5": "FAT",
+  "Column6": "09:50",
+  "Column7": "09:58",
+  "Column8": 8
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2358,
+  "Column4": "N446WN",
+  "Column5": "PHX",
+  "Column6": "13:35",
+  "Column7": "13:36",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2359,
+  "Column4": "N737JW",
+  "Column5": "FAT",
+  "Column6": "22:20",
+  "Column7": "22:48",
+  "Column8": 28
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2368,
+  "Column4": "N939WN",
+  "Column5": "IND",
+  "Column6": "08:15",
+  "Column7": "08:54",
+  "Column8": 39
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2375,
+  "Column4": "N444WN",
+  "Column5": "DEN",
+  "Column6": "19:40",
+  "Column7": "20:32",
+  "Column8": 52
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2389,
+  "Column4": "N8577Z",
+  "Column5": "HOU",
+  "Column6": "15:55",
+  "Column7": "16:01",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2394,
+  "Column4": "N216WR",
+  "Column5": "PSP",
+  "Column6": "16:35",
+  "Column7": "16:51",
+  "Column8": 16
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2402,
+  "Column4": "N7856A",
+  "Column5": "PHX",
+  "Column6": "20:15",
+  "Column7": "21:01",
+  "Column8": 46
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2444,
+  "Column4": "N8559Q",
+  "Column5": "DEN",
+  "Column6": "08:05",
+  "Column7": "08:14",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2486,
+  "Column4": "N8607M",
+  "Column5": "DAL",
+  "Column6": "15:25",
+  "Column7": "16:01",
+  "Column8": 36
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2488,
+  "Column4": "N755SA",
+  "Column5": "HOU",
+  "Column6": "10:35",
+  "Column7": "10:41",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2523,
+  "Column4": "N446WN",
+  "Column5": "RNO",
+  "Column6": "07:20",
+  "Column7": "07:16",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2525,
+  "Column4": "N437WN",
+  "Column5": "ONT",
+  "Column6": "13:00",
+  "Column7": "13:29",
+  "Column8": 29
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2533,
+  "Column4": "N235WN",
+  "Column5": "BZN",
+  "Column6": "13:10",
+  "Column7": "13:25",
+  "Column8": 15
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2538,
+  "Column4": "N757LV",
+  "Column5": "SJC",
+  "Column6": "21:35",
+  "Column7": "21:30",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2546,
+  "Column4": "N8645A",
+  "Column5": "MDW",
+  "Column6": "12:45",
+  "Column7": "12:59",
+  "Column8": 14
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2559,
+  "Column4": "N8816Q",
+  "Column5": "DAL",
+  "Column6": "07:40",
+  "Column7": "07:51",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2566,
+  "Column4": "N8749Q",
+  "Column5": "SLC",
+  "Column6": "10:50",
+  "Column7": "10:47",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2582,
+  "Column4": "N496WN",
+  "Column5": "MCI",
+  "Column6": "07:15",
+  "Column7": "07:15",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2590,
+  "Column4": "N230WN",
+  "Column5": "PHX",
+  "Column6": "07:35",
+  "Column7": "08:00",
+  "Column8": 25
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2597,
+  "Column4": "N8661A",
+  "Column5": "LAX",
+  "Column6": "15:15",
+  "Column7": "15:32",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2602,
+  "Column4": "N752SW",
+  "Column5": "DAL",
+  "Column6": "10:50",
+  "Column7": "10:46",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2604,
+  "Column4": "N257WN",
+  "Column5": "LAX",
+  "Column6": "05:30",
+  "Column7": "05:29",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2610,
+  "Column4": "N490WN",
+  "Column5": "SFO",
+  "Column6": "06:10",
+  "Column7": "06:10",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2619,
+  "Column4": "N785SW",
+  "Column5": "LAX",
+  "Column6": "17:00",
+  "Column7": "17:39",
+  "Column8": 39
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2622,
+  "Column4": "N7822A",
+  "Column5": "ABQ",
+  "Column6": "07:30",
+  "Column7": "07:27",
+  "Column8": -3
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2633,
+  "Column4": "N7888A",
+  "Column5": "SAN",
+  "Column6": "06:35",
+  "Column7": "06:41",
+  "Column8": 6
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2651,
+  "Column4": "N451WN",
+  "Column5": "SNA",
+  "Column6": "18:55",
+  "Column7": "19:10",
+  "Column8": 15
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2659,
+  "Column4": "N7813P",
+  "Column5": "SNA",
+  "Column6": "13:50",
+  "Column7": "14:02",
+  "Column8": 12
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2667,
+  "Column4": "N7848A",
+  "Column5": "MSY",
+  "Column6": "11:05",
+  "Column7": "11:12",
+  "Column8": 7
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2687,
+  "Column4": "N452WN",
+  "Column5": "SBA",
+  "Column6": "14:15",
+  "Column7": "14:26",
+  "Column8": 11
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2689,
+  "Column4": "N566WN",
+  "Column5": "SBA",
+  "Column6": "20:00",
+  "Column7": "20:46",
+  "Column8": 46
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2694,
+  "Column4": "N8326F",
+  "Column5": "BWI",
+  "Column6": "14:25",
+  "Column7": "14:42",
+  "Column8": 17
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2711,
+  "Column4": "N731SA",
+  "Column5": "BLI",
+  "Column6": "12:05",
+  "Column7": "12:04",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2721,
+  "Column4": "N717SA",
+  "Column5": "AUS",
+  "Column6": "19:55",
+  "Column7": "19:57",
+  "Column8": 2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2729,
+  "Column4": "N945WN",
+  "Column5": "OAK",
+  "Column6": "11:40",
+  "Column7": "11:44",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2745,
+  "Column4": "N287WN",
+  "Column5": "BUR",
+  "Column6": "19:00",
+  "Column7": "19:13",
+  "Column8": 13
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2788,
+  "Column4": "N8526W",
+  "Column5": "SJC",
+  "Column6": "14:45",
+  "Column7": "14:40",
+  "Column8": -5
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2802,
+  "Column4": "N7884G",
+  "Column5": "SBA",
+  "Column6": "08:25",
+  "Column7": "08:21",
+  "Column8": -4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2803,
+  "Column4": "N8729H",
+  "Column5": "LAX",
+  "Column6": "09:30",
+  "Column7": "09:34",
+  "Column8": 4
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2819,
+  "Column4": "N8747Q",
+  "Column5": "LAX",
+  "Column6": "08:05",
+  "Column7": "08:14",
+  "Column8": 9
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 2822,
+  "Column4": "N8812Q",
+  "Column5": "MDW",
+  "Column6": "14:15",
+  "Column7": "14:39",
+  "Column8": 24
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 3626,
+  "Column4": "N403WN",
+  "Column5": "DEN",
+  "Column6": "05:25",
+  "Column7": "05:25",
+  "Column8": 0
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 3949,
+  "Column4": "N8329B",
+  "Column5": "KOA",
+  "Column6": "17:25",
+  "Column7": "17:24",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4044,
+  "Column4": "N7845A",
+  "Column5": "MKE",
+  "Column6": "19:20",
+  "Column7": "20:16",
+  "Column8": 56
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4049,
+  "Column4": "N925WN",
+  "Column5": "STL",
+  "Column6": "20:35",
+  "Column7": "21:28",
+  "Column8": 53
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4278,
+  "Column4": "N962WN",
+  "Column5": "ELP",
+  "Column6": "10:05",
+  "Column7": "10:04",
+  "Column8": -1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4358,
+  "Column4": "N8718Q",
+  "Column5": "DEN",
+  "Column6": "22:10",
+  "Column7": "22:44",
+  "Column8": 34
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4557,
+  "Column4": "N445WN",
+  "Column5": "PHX",
+  "Column6": "08:55",
+  "Column7": "08:53",
+  "Column8": -2
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 4573,
+  "Column4": "N946WN",
+  "Column5": "SEA",
+  "Column6": "18:40",
+  "Column7": "18:41",
+  "Column8": 1
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 6516,
+  "Column4": "N250WN",
+  "Column5": "PIT",
+  "Column6": "16:15",
+  "Column7": "17:36",
+  "Column8": 81
+ },
+ {
+  "Detailed Statistics Departures  ": "WN",
+  "Column2": "04\/05\/2022",
+  "Column3": 6607,
+  "Column4": "N8584Z",
+  "Column5": "MKE",
+  "Column6": "07:45",
+  "Column7": "09:08",
+  "Column8": 83
+ },
+ null,
+ {
+  "Detailed Statistics Departures  ": " SOURCE: Bureau of Transportation Statistics"
+ }
+]
