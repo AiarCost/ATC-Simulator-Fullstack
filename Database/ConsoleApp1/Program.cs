@@ -14,7 +14,7 @@ namespace Selenium_Automation
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Version 1.01");
+            Console.WriteLine("Version 1.02");
 
             //User Input
             Console.WriteLine("What Year? (1987-2023)");
@@ -51,8 +51,8 @@ namespace Selenium_Automation
                     DownloadBase += "\\" + ParsedCodeBase[x];
             }
 
-            string EditorDirectory = "\\ATC Simulator Fullstack\\Assets\\StreamingAssets";
-            string BuildDirectory = "\\Builds\\ATC Simulator Fullstack_Data\\StreamingAssets";
+            string EditorDirectory = "\\ATC Simulator Fullstack\\Assets\\Resources";
+            string BuildDirectory = "\\Builds\\ATC Simulator Fullstack_Data\\Resources";
 
             if (isBuild == 1)
                 DownloadBase += BuildDirectory;
@@ -150,14 +150,21 @@ namespace Selenium_Automation
             DepartureDataDriver.Close();
 
 
-            Workbook arrivalBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
-            arrivalBook.Save(DownloadBase+ "\\ArrivalJSON.json", SaveFormat.Json);
-            File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
+
+            //File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
+            var Arrival = new HashSet<string>(File.ReadAllLines(DownloadBase + "\\Detailed_Statistics_Arrivals.csv").Skip(8));
+            File.WriteAllLines(DownloadBase+"\\Detailed_Statistics_Arrivals.csv", Arrival);
+
+            //Workbook arrivalBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
+            //arrivalBook.Save(DownloadBase + "\\ArrivalJSON.json", SaveFormat.Json);
 
 
-            Workbook departureBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Departures.csv");
-            departureBook.Save(DownloadBase + "\\DepartureJSON.json", SaveFormat.Json);
-            File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
+            //File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
+            var Departure = new HashSet<string>(File.ReadAllLines(DownloadBase + "\\Detailed_Statistics_Departures.csv").Skip(8));
+            File.WriteAllLines(DownloadBase + "\\Detailed_Statistics_Departures.csv", Departure);
+
+            //Workbook departureBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Departures.csv");
+            //departureBook.Save(DownloadBase + "\\DepartureJSON.json", SaveFormat.Json);
 
             return;
 

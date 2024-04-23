@@ -316,6 +316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1208737712}
   - component: {fileID: 1208737711}
+  - component: {fileID: 1208737713}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -336,8 +337,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlanePrefab: {fileID: 0}
-  ArrivalCSV: {fileID: 0}
-  DepartureCSV: {fileID: 0}
+  PlaneData: {fileID: 1208737713}
 --- !u!4 &1208737712
 Transform:
   m_ObjectHideFlags: 0
@@ -353,6 +353,77 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1208737713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1208737710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48332ba935d999a4086a31f2b93822af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlanePrefab: {fileID: 8831370493586116899, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+  PlaneData: {fileID: 0}
+--- !u!1001 &3786602117745956961
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150692000781659017, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831370493586116899, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
+      propertyPath: m_Name
+      value: PlaneGO
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d9aa09b5e7bff8544abb382bea10aee2, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -360,3 +431,4 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 1208737712}
+  - {fileID: 3786602117745956961}

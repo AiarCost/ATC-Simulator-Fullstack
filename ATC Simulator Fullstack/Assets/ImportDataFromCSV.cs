@@ -9,6 +9,8 @@ public class ImportDataFromCSV : MonoBehaviour
 
     public GameObject PlanePrefab;
 
+    public ImportPlaneData PlaneData;
+
     public Dictionary<string, GameObject> AirplaneList;
 
 
@@ -62,6 +64,9 @@ public class ImportDataFromCSV : MonoBehaviour
         Process process = Process.Start(NewPath + DatabaseCollector);
         process.WaitForExit();
         process.Dispose();
+
+
+        PlaneData.ImportData();
     }
 
 
