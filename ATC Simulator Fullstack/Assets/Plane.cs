@@ -28,8 +28,11 @@ public class Plane: MonoBehaviour
     
     public void PlaneImport(string[] rowData)
     {
+
         for(int i = 0; i < 6; i++)
         {
+            Debug.Log(rowData[i]);
+
               switch (i)
             {
                 case 0:

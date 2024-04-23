@@ -9,7 +9,11 @@ public class ImportPlaneData : MonoBehaviour
     public PlaneData PlaneData;
 
     TextAsset ArrivalTextImport;
+    TextAsset DepartureTextImport;
     string[] ArrivalRows;
+    string[] DepartureRows;
+
+    public Dictionary<string, GameObject> PlaneList;
 
     public void ImportData()
     {
@@ -28,9 +32,14 @@ public class ImportPlaneData : MonoBehaviour
 
             GameObject NewPlane = Instantiate(PlanePrefab);
             NewPlane.GetComponent<Plane>().PlaneImport(row);
+
+            PlaneList.Add(row[3], NewPlane);
         }
 
         Debug.Log(ArrivalRows);
+
+        DepartureTextImport = Resources.Load<TextAsset>("Detailed_Statistics_Departures");
+
     }
 
 }
