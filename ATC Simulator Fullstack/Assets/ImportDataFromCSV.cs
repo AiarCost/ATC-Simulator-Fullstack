@@ -51,9 +51,8 @@ public class ImportDataFromCSV : MonoBehaviour
 
         string DataFolderForFiles = Application.dataPath;
 
-        File.Delete(DataFolderForFiles + "Detailed_Statistics_Arrivals.csv");
-        File.Delete(DataFolderForFiles + "Detailed_Statistics_Departures.csv");
-
+        UnityEngine.Debug.Log("NewPath Location is: " + NewPath + DatabaseCollector);
+        
         Process process = Process.Start(NewPath + DatabaseCollector);
         process.WaitForExit();
         process.Dispose();

@@ -18,7 +18,7 @@ public class ImportPlaneData : MonoBehaviour
 
     public void ImportData()
     {
-        AssetDatabase.Refresh();
+        //AssetDatabase.Refresh();
 
         ArrivalTextImport = Resources.Load<TextAsset>("Detailed_Statistics_Arrivals");
 
