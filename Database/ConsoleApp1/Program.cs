@@ -14,7 +14,7 @@ namespace Selenium_Automation
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Version 1.02");
+            Console.WriteLine("Version 1.03");
 
             //User Input
             Console.WriteLine("What Year? (1987-2023)");
@@ -90,6 +90,10 @@ namespace Selenium_Automation
 
             //Submit Data Query to site
             ArrivalDataDriver.FindElement(By.Id("btnSubmit")).Click();
+            
+            File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
+
+
             //Download and close
             ArrivalDataDriver.FindElement(By.Id("DL_CSV")).Click();
 
@@ -132,6 +136,9 @@ namespace Selenium_Automation
 
             //Submite Data Query to site
             DepartureDataDriver.FindElement(By.Id("btnSubmit")).Click();
+
+            File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
+
             //Download and close
             DepartureDataDriver.FindElement(By.Id("DL_CSV")).Click();
 
@@ -151,20 +158,13 @@ namespace Selenium_Automation
 
 
 
-            //File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
             var Arrival = new HashSet<string>(File.ReadAllLines(DownloadBase + "\\Detailed_Statistics_Arrivals.csv").Skip(8));
             File.WriteAllLines(DownloadBase+"\\Detailed_Statistics_Arrivals.csv", Arrival);
 
-            //Workbook arrivalBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
-            //arrivalBook.Save(DownloadBase + "\\ArrivalJSON.json", SaveFormat.Json);
 
-
-            //File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
             var Departure = new HashSet<string>(File.ReadAllLines(DownloadBase + "\\Detailed_Statistics_Departures.csv").Skip(8));
             File.WriteAllLines(DownloadBase + "\\Detailed_Statistics_Departures.csv", Departure);
 
-            //Workbook departureBook = new Workbook(DownloadBase + "\\Detailed_Statistics_Departures.csv");
-            //departureBook.Save(DownloadBase + "\\DepartureJSON.json", SaveFormat.Json);
 
             return;
 

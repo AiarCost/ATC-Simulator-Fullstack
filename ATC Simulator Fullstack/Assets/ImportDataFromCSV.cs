@@ -19,14 +19,11 @@ public class ImportDataFromCSV : MonoBehaviour
     {
         AirplaneList = new Dictionary<string, GameObject>();
         string path = Application.dataPath;
-        UnityEngine.Debug.Log(path);
 
         string DatabaseCollector = "\\Database\\ConsoleApp1\\bin\\Debug\\net6.0\\ConsoleApp1.exe";
 
         string[] ParsedString = path.Split(char.Parse("/"));
         string NewPath = "";
-
-        UnityEngine.Debug.Log(Application.isEditor);
 
         if (Application.isEditor)
         {
@@ -36,8 +33,6 @@ public class ImportDataFromCSV : MonoBehaviour
                     NewPath += ParsedString[x];
                 else
                     NewPath += "\\" + ParsedString[x];
-
-                UnityEngine.Debug.Log(NewPath);
 
             }
         }
@@ -53,10 +48,8 @@ public class ImportDataFromCSV : MonoBehaviour
         }
 
 
-        UnityEngine.Debug.Log(NewPath + DatabaseCollector);
 
         string DataFolderForFiles = Application.dataPath;
-        UnityEngine.Debug.Log(DataFolderForFiles);
 
         File.Delete(DataFolderForFiles + "Detailed_Statistics_Arrivals.csv");
         File.Delete(DataFolderForFiles + "Detailed_Statistics_Departures.csv");

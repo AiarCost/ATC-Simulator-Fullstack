@@ -11,9 +11,9 @@ public class Plane: MonoBehaviour
 
     //flight numbers can change. Can search up flights using tailNumber
     public string flightNumberArrival;
-    int flightNumberDeparture;
+    public string flightNumberDeparture;
     public string originAirport;
-    string destinationAirport;
+    public string destinationAirport;
 
     //Flight scheduled arrival time & actual time
     public string scheduledArrivalTime;
@@ -21,17 +21,16 @@ public class Plane: MonoBehaviour
     public string arrivalDelay;
 
     //flight scheduled departure time and actual time
-    int scheduledDepartureTime;
-    int actualDepartureTime;
-    string departureDelay;
+    public string scheduledDepartureTime;
+    public string actualDepartureTime;
+    public string departureDelay;
 
     
-    public void PlaneImport(string[] rowData)
+    public void PlaneArrivalImport(string[] rowData)
     {
 
-        for(int i = 0; i < 6; i++)
+        for(int i = 0; i < 8; i++)
         {
-            Debug.Log(rowData[i]);
 
               switch (i)
             {
@@ -49,11 +48,10 @@ public class Plane: MonoBehaviour
                     originAirport = rowData[i];
                     break;
                 case 5:
-                    scheduledArrivalTime = rowData[i];
+                    scheduledArrivalTime = rowData[i].Replace(":", "");
                     break;
                 case 6:
-                    Debug.Log(rowData[i]);
-                    actualArrivalTime = rowData[i];
+                    actualArrivalTime = rowData[i].Replace(":", "");
                     break;
                 case 7:
                     arrivalDelay = rowData[i];
@@ -63,5 +61,48 @@ public class Plane: MonoBehaviour
 
             }
         }
+    }
+
+    public void PlaneDepartureImport(string[] rowData)
+    {
+
+        for (int i = 0; i < 8; i++)
+        {
+
+            switch (i)
+            {
+                case 0:
+                case 1:
+                    break;
+                case 2:
+
+                    flightNumberDeparture = rowData[i];
+                    break;
+                case 3:
+                    tailNumber = rowData[i];
+                    break;
+                case 4:
+                    destinationAirport = rowData[i];
+                    break;
+                case 5:
+                    scheduledDepartureTime = rowData[i].Replace(":", "");
+                    break;
+                case 6:
+                    actualDepartureTime = rowData[i].Replace(":", "");
+                    break;
+                case 7:
+                    departureDelay = rowData[i];
+                    break;
+                default:
+                    break;
+
+            }
+        }
+    }
+
+
+    public void Update()
+    {
+        
     }
 }
