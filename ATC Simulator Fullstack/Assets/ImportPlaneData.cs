@@ -38,7 +38,9 @@ public class ImportPlaneData : MonoBehaviour
 
             //Create new plane and add new data
             GameObject NewPlane = Instantiate(PlanePrefab);
+            NewPlane.name = "PlaneGO" + i.ToString();
             NewPlane.GetComponent<Plane>().PlaneArrivalImport(row);
+            NewPlane.SetActive(false);
 
             if (PlaneManager.PlaneList.ContainsKey(row[3]))
                 Destroy(NewPlane);
@@ -70,12 +72,17 @@ public class ImportPlaneData : MonoBehaviour
             {
                 //If no plane is in system yet, create new one
                 GameObject NewPlane = Instantiate(PlanePrefab);
+                NewPlane.name = "PlaneGO" + i.ToString();
                 NewPlane.GetComponent<Plane>().PlaneDepartureImport(row);
                 PlaneManager.PlaneList.Add(row[3], NewPlane);
+                NewPlane.SetActive(false);
             }
         }
 
 
+        PlaneManager.ArrivalSorting();
+        PlaneManager.DepartureSorting();
+        //PlaneManager.TimerCountStart();
 
     }
 

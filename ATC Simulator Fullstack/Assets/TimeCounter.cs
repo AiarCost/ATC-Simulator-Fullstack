@@ -7,6 +7,7 @@ public class TimeCounter : MonoBehaviour
     public TextMeshProUGUI timeText;
     public float TimeSpeedMultiplier = 1f;
     public float elapsedTime = 0f;
+    public int Timer = 0;
 
     void Update()
     {
@@ -19,5 +20,8 @@ public class TimeCounter : MonoBehaviour
 
         // Update UI text
         timeText.text = string.Format("{0:00}:{1:00}", hours, minutes);
+
+        hours *= 100;
+        Timer = hours + minutes;
     }
 }
