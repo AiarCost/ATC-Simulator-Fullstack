@@ -42,10 +42,12 @@ public class PlaneManager : MonoBehaviour
             NextPlaneArrivalGO.GetComponent<Plane>().PlaneManager = this;
 
             NextPlaneArrivalGO.GetComponent<NavMeshAgent>().destination = Test.position;
+            NextPlaneArrivalGO.GetComponent<Plane>().takeOffCheckPoint = Test;
             NextPlaneArrivalGO = NextPlaneArrivalGO.GetComponent<Plane>().nextPlaneArrival;
         }
         if(NextPlaneDepartureGO != null && timeCounter.Timer >= NextPlaneDepartureGO.GetComponent<Plane>().actualDepartureTime - 5)
         {
+            Debug.Log(NextPlaneDepartureGO.name);
             NextPlaneDepartureGO.GetComponent<Plane>().CurrentState = Plane.PlaneState.taxi;
             NextPlaneDepartureGO.GetComponent<NavMeshAgent>().destination = DepartureStartPos.position;
             NextPlaneDepartureGO.GetComponent<Plane>().GateController.UnassignGate(NextPlaneDepartureGO);
@@ -126,7 +128,7 @@ public class PlaneManager : MonoBehaviour
 
         foreach (GameObject PlaneInfo in PlaneList.Values)
         {
-            if (PlaneInfo.GetComponent<Plane>().scheduledArrivalTime > PlaneInfo.GetComponent<Plane>().scheduledDepartureTime)
+            if (PlaneInfo.GetComponent<Plane>().actualArrivalTime > PlaneInfo.GetComponent<Plane>().actualDepartureTime)
                 continue;
 
             if (headPlane == null)

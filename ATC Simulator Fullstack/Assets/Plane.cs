@@ -37,11 +37,15 @@ public class Plane: MonoBehaviour
 
     private int TakeoffStage = 0;
     public bool isAtGate = false;
+    public bool isTaxiForDeparture = false;
+    public bool isLineUpForDeparture = false;
     private NavMeshAgent NavAgent;
     public GateController GateController;
     public PlaneManager PlaneManager;
     private float PlaneSpeed = 1f;
     public float SpeedScale = 1f;
+
+    public Transform takeOffCheckPoint;
 
     private void Start()
     {
@@ -50,29 +54,37 @@ public class Plane: MonoBehaviour
 
     private void Update()
     {
-        if(NavAgent.remainingDistance < 1f && CurrentState == PlaneState.arrival) 
+        //Player has gotten to the end of the runway and requires a gate to proceed to
+        if(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 1f && CurrentState == PlaneState.arrival) 
         {
             NavAgent.destination = GateController.AssignGate(gameObject).position;
+            NavAgent.speed = 2;
             CurrentState = PlaneState.gate;
             nextPlaneArrival = null;
         }
-        if(NavAgent.remainingDistance < 5f && CurrentState == PlaneState.arrival)
+        if(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 5f && CurrentState == PlaneState.arrival)
         {
-            NavAgent.speed = Mathf.Lerp(200, 2, Mathf.Clamp(PlaneSpeed - Time.deltaTime * SpeedScale, 0,1));
+            //NavAgent.speed = Mathf.Lerp(50, 2, Mathf.Clamp(PlaneSpeed - Time.deltaTime * SpeedScale, 0,1));
         }
-        if(NavAgent.remainingDistance < 1f && CurrentState == PlaneState.gate && destinationAirport == null)
+        if(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 1f && CurrentState == PlaneState.gate && destinationAirport == null)
         {
             GateController.UnassignGate(gameObject);
             Destroy(gameObject);
         }
         if(CurrentState == PlaneState.departure)
         {
-            NavAgent.speed = Mathf.Lerp(2, 200, Mathf.Clamp(PlaneSpeed + Time.deltaTime * SpeedScale, 0, 1));
+            if (Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 1f && !isLineUpForDeparture)
+                isLineUpForDeparture = true;
 
-                NavAgent.destination = GameObject.FindGameObjectWithTag("EndTakeoff").transform.position;
-                if (NavAgent.remainingDistance < 1f)
+            if (isLineUpForDeparture)
+            {
+                NavAgent.speed = 50;
+                //NavAgent.speed = Mathf.Lerp(2, 50, Mathf.Clamp(PlaneSpeed + Time.deltaTime * SpeedScale, 0, 1));
+                takeOffCheckPoint = GameObject.FindGameObjectWithTag("EndTakeoff").transform;
+                NavAgent.destination = takeOffCheckPoint.position;
+                if (Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 1f)
                     Destroy(gameObject);
-            
+            }
 
         }
         if(CurrentState == PlaneState.gate && !isAtGate)
@@ -82,10 +94,22 @@ public class Plane: MonoBehaviour
         }
         if(CurrentState == PlaneState.taxi && isAtGate && NavAgent.remainingDistance<1f)
         {
-            NavAgent.destination = GameObject.FindGameObjectWithTag("StartTakeoff").transform.position;
+            takeOffCheckPoint = GameObject.FindGameObjectWithTag("StartTakeoff").transform;
+            NavAgent.destination = takeOffCheckPoint.position;
+
+            Debug.Log(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position));
             isAtGate = false;
-            if (NavAgent.remainingDistance < 1f && !isAtGate)
+            isTaxiForDeparture = true;
+
+        }
+        if(CurrentState == PlaneState.taxi && isTaxiForDeparture)
+        {
+            Debug.Log(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position));
+            if(Vector3.Distance(gameObject.transform.position, takeOffCheckPoint.position) < 1f)
             {
+                Debug.Log("It is lining up");
+                takeOffCheckPoint = GameObject.FindGameObjectWithTag("LineUp").transform;
+                NavAgent.destination = takeOffCheckPoint.position;
                 CurrentState = PlaneState.departure;
             }
         }

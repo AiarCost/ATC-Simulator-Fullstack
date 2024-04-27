@@ -14,7 +14,7 @@ namespace Selenium_Automation
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Version 1.03");
+            Console.WriteLine("Version 1.05");
 
             //User Input
             Console.WriteLine("What Year? (1987-2023)");
@@ -52,7 +52,7 @@ namespace Selenium_Automation
             }
 
             string EditorDirectory = "\\ATC Simulator Fullstack\\Assets\\Resources";
-            string BuildDirectory = "\\Builds\\ATC Simulator Fullstack_Data\\Resources";
+            string BuildDirectory = "\\ATC Simulator Fullstack_Data\\Resources";
 
             if (isBuild == 1)
                 DownloadBase += BuildDirectory;
@@ -90,14 +90,14 @@ namespace Selenium_Automation
 
             //Submit Data Query to site
             ArrivalDataDriver.FindElement(By.Id("btnSubmit")).Click();
-            
-            File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
 
+            if(File.Exists(DownloadBase + "\\Detailed_Statistics_Arrivals.csv"))
+                File.Delete(DownloadBase + "\\Detailed_Statistics_Arrivals.csv");
 
             //Download and close
             ArrivalDataDriver.FindElement(By.Id("DL_CSV")).Click();
 
-            WebDriverWait ArrivalWait = new WebDriverWait(ArrivalDataDriver, TimeSpan.FromSeconds(5));
+            WebDriverWait ArrivalWait = new WebDriverWait(ArrivalDataDriver, TimeSpan.FromSeconds(2));
             ArrivalWait.IgnoreExceptionTypes(typeof(WebDriverTimeoutException), typeof(NoSuchElementException), typeof(ElementNotVisibleException));
             try
             {
@@ -137,12 +137,13 @@ namespace Selenium_Automation
             //Submite Data Query to site
             DepartureDataDriver.FindElement(By.Id("btnSubmit")).Click();
 
-            File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
+            if(File.Exists(DownloadBase + "\\Detailed_Statistics_Departures.csv"))
+                File.Delete(DownloadBase + "\\Detailed_Statistics_Departures.csv");
 
             //Download and close
             DepartureDataDriver.FindElement(By.Id("DL_CSV")).Click();
 
-            WebDriverWait DepartureWait = new WebDriverWait(DepartureDataDriver, TimeSpan.FromSeconds(5));
+            WebDriverWait DepartureWait = new WebDriverWait(DepartureDataDriver, TimeSpan.FromSeconds(2));
             DepartureWait.IgnoreExceptionTypes(typeof(WebDriverTimeoutException), typeof(NoSuchElementException), typeof(ElementNotVisibleException));
             try
             {

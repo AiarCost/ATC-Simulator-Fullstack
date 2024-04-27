@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.3069224, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3659,7 +3659,7 @@ GameObject:
   - component: {fileID: 1346490871}
   m_Layer: 0
   m_Name: StartDepartureCheckpoint
-  m_TagString: Untagged
+  m_TagString: StartTakeoff
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4561,7 +4561,7 @@ GameObject:
   - component: {fileID: 1635032648}
   m_Layer: 0
   m_Name: TakeoffCheckpoint
-  m_TagString: StartTakeoff
+  m_TagString: LineUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6189,7 +6189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeText: {fileID: 2099721502}
   TimeSpeedMultiplier: 0.25
-  elapsedTime: 0
+  elapsedTime: 360
   Timer: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

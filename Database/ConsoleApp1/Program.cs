@@ -14,7 +14,7 @@ namespace Selenium_Automation
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Version 1.04");
+            Console.WriteLine("Version 1.05");
 
             //User Input
             Console.WriteLine("What Year? (1987-2023)");
@@ -52,7 +52,7 @@ namespace Selenium_Automation
             }
 
             string EditorDirectory = "\\ATC Simulator Fullstack\\Assets\\Resources";
-            string BuildDirectory = "\\Builds\\ATC Simulator Fullstack_Data\\Resources";
+            string BuildDirectory = "\\ATC Simulator Fullstack_Data\\Resources";
 
             if (isBuild == 1)
                 DownloadBase += BuildDirectory;

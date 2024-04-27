@@ -7,6 +7,7 @@ TagManager:
   - Plane
   - StartTakeoff
   - EndTakeoff
+  - LineUp
   layers:
   - Default
   - TransparentFX
